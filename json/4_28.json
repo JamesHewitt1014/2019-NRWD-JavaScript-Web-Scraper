@@ -1,0 +1,387 @@
+[
+	"PROGRAM INIT 9:5",
+	{
+		"title": "ALWAYS SOMETHING THERE TO REMIND ME",
+		"artist": "Naked Eyes",
+		"timeHour": 9,
+		"timeMinutes": 6
+	},
+	{
+		"title": "SOMEBODY'S CRYING",
+		"artist": "Chris Isaak",
+		"timeHour": 9,
+		"timeMinutes": 9
+	},
+	{
+		"title": "Rain",
+		"artist": "THE DROUGHTBREAKERS",
+		"timeHour": 9,
+		"timeMinutes": 12
+	},
+	{
+		"title": "MAKE ME LOSE CONTROL",
+		"artist": "Eric Carmen",
+		"timeHour": 9,
+		"timeMinutes": 15
+	},
+	{
+		"title": "UPTOWN FUNK",
+		"artist": "MARK RONSON/BRUNO MARS",
+		"timeHour": 9,
+		"timeMinutes": 20
+	},
+	{
+		"title": "EASY LOVER",
+		"artist": "PHILIP BAILEY AND PHIL COLLINS",
+		"timeHour": 9,
+		"timeMinutes": 24
+	},
+	{
+		"title": "LEAVE A LIGHT ON",
+		"artist": "Tom Walker",
+		"timeHour": 9,
+		"timeMinutes": 29
+	},
+	{
+		"title": "KHE SANH",
+		"artist": "Cold Chisel",
+		"timeHour": 9,
+		"timeMinutes": 32
+	},
+	{
+		"title": "TODAY IS THE DAY",
+		"artist": "Pink",
+		"timeHour": 9,
+		"timeMinutes": 36
+	},
+	{
+		"title": "THORN IN MY SIDE",
+		"artist": "Eurythmics",
+		"timeHour": 9,
+		"timeMinutes": 44
+	},
+	{
+		"title": "NEVER EVER (MIX 106.3 NEW MUSIC INTRO)",
+		"artist": "The Rubens",
+		"timeHour": 9,
+		"timeMinutes": 48
+	},
+	{
+		"title": "LIFE IS A HIGHWAY",
+		"artist": "Tom Cochrane",
+		"timeHour": 9,
+		"timeMinutes": 52
+	},
+	{
+		"title": "SAY YOU WILL",
+		"artist": "Foreigner",
+		"timeHour": 10,
+		"timeMinutes": 6
+	},
+	{
+		"title": "HEALING HANDS",
+		"artist": "Conrad Sewell",
+		"timeHour": 10,
+		"timeMinutes": 10
+	},
+	{
+		"title": "ALL STAR",
+		"artist": "Smash Mouth",
+		"timeHour": 10,
+		"timeMinutes": 14
+	},
+	{
+		"title": "SOLID ROCK",
+		"artist": "Goanna",
+		"timeHour": 10,
+		"timeMinutes": 17
+	},
+	{
+		"title": "GRENADE",
+		"artist": "Bruno Mars",
+		"timeHour": 10,
+		"timeMinutes": 22
+	},
+	{
+		"title": "SHOULD'VE KNOWN BETTER",
+		"artist": "Richard Marx",
+		"timeHour": 10,
+		"timeMinutes": 26
+	},
+	{
+		"title": "On My Way (MIX 106.3 NEW MUSIC INTRO)",
+		"artist": "Sheppard",
+		"timeHour": 10,
+		"timeMinutes": 29
+	},
+	{
+		"title": "FREEDOM 90",
+		"artist": "George Michael",
+		"timeHour": 10,
+		"timeMinutes": 33
+	},
+	{
+		"title": "JESSIES GIRL",
+		"artist": "Rick Springfield",
+		"timeHour": 10,
+		"timeMinutes": 36
+	},
+	{
+		"title": "WATER UNDER THE BRIDGE",
+		"artist": "Adele",
+		"timeHour": 10,
+		"timeMinutes": 45
+	},
+	{
+		"title": "SOMETHING SO STRONG",
+		"artist": "Crowded House",
+		"timeHour": 10,
+		"timeMinutes": 49
+	},
+	{
+		"title": "SOMEBODY THAT I USED TO KNOW",
+		"artist": "Gotye",
+		"timeHour": 10,
+		"timeMinutes": 52
+	},
+	{
+		"title": "1999",
+		"artist": "Prince",
+		"timeHour": 11,
+		"timeMinutes": 4
+	},
+	{
+		"title": "I'D DO ANYTHING FOR LOVE...",
+		"artist": "MEATLOAF",
+		"timeHour": 11,
+		"timeMinutes": 8
+	},
+	{
+		"title": "BE ALRIGHT",
+		"artist": "Dean Lewis",
+		"timeHour": 11,
+		"timeMinutes": 14
+	},
+	{
+		"title": "DUMB THINGS",
+		"artist": "Paul Kelly",
+		"timeHour": 11,
+		"timeMinutes": 17
+	},
+	{
+		"title": "WILDEST DREAMS",
+		"artist": "Taylor Swift",
+		"timeHour": 11,
+		"timeMinutes": 19
+	},
+	{
+		"title": "HURTS SO GOOD",
+		"artist": "John Mellencamp",
+		"timeHour": 11,
+		"timeMinutes": 23
+	},
+	{
+		"title": "Love Someone",
+		"artist": "Lukas Graham",
+		"timeHour": 11,
+		"timeMinutes": 26
+	},
+	{
+		"title": "KILLER QUEEN",
+		"artist": "Queen",
+		"timeHour": 11,
+		"timeMinutes": 30
+	},
+	{
+		"title": "I GOTTA FEELING",
+		"artist": "BLACK EYED PEAS",
+		"timeHour": 11,
+		"timeMinutes": 36
+	},
+	{
+		"title": "YOUNG YEARS",
+		"artist": "Dragon",
+		"timeHour": 11,
+		"timeMinutes": 40
+	},
+	{
+		"title": "HAPPIER (MIX 106.3 NEW MUSIC INTRO)",
+		"artist": "MARSHMELLO FT. BASTILLE",
+		"timeHour": 11,
+		"timeMinutes": 44
+	},
+	{
+		"title": "3AM",
+		"artist": "MATCHBOX 20",
+		"timeHour": 11,
+		"timeMinutes": 48
+	},
+	{
+		"title": "FUNKY TOWN",
+		"artist": "Pseudo Echo",
+		"timeHour": 11,
+		"timeMinutes": 51
+	},
+	{
+		"title": "Big Yellow Taxi",
+		"artist": "Counting Crows",
+		"timeHour": 11,
+		"timeMinutes": 55
+	},
+	{
+		"title": "",
+		"artist": "Loading...",
+		"timeHour": 12,
+		"timeMinutes": 4
+	},
+	{
+		"title": "Big Yellow Taxi",
+		"artist": "Counting Crows",
+		"timeHour": 12,
+		"timeMinutes": 5
+	},
+	{
+		"title": "CAN'T STOP THE FEELING",
+		"artist": "Justin Timberlake",
+		"timeHour": 12,
+		"timeMinutes": 14
+	},
+	{
+		"title": "CLOSING TIME",
+		"artist": "SEMISONIC",
+		"timeHour": 12,
+		"timeMinutes": 18
+	},
+	{
+		"title": "DON'T PAY THE FERRYMAN",
+		"artist": "CHRIS DE BURGH",
+		"timeHour": 12,
+		"timeMinutes": 23
+	},
+	{
+		"title": "WHATEVER YOU WANT",
+		"artist": "Pink",
+		"timeHour": 12,
+		"timeMinutes": 26
+	},
+	{
+		"title": "KYRIE",
+		"artist": "MR MISTER",
+		"timeHour": 12,
+		"timeMinutes": 30
+	},
+	{
+		"title": "Body Talks (MIX 106.3 NEW MUSIC INTRO)",
+		"artist": "The Struts",
+		"timeHour": 12,
+		"timeMinutes": 35
+	},
+	{
+		"title": "DREAMS.",
+		"artist": "Cranberries",
+		"timeHour": 12,
+		"timeMinutes": 38
+	},
+	{
+		"title": "BILLIE JEAN",
+		"artist": "Michael Jackson",
+		"timeHour": 12,
+		"timeMinutes": 46
+	},
+	{
+		"title": "WAY DOWN WE GO",
+		"artist": "Kaleo",
+		"timeHour": 12,
+		"timeMinutes": 50
+	},
+	{
+		"title": "I JUST DIED IN YOUR ARMS TONIGHT",
+		"artist": "Cutting Crew",
+		"timeHour": 12,
+		"timeMinutes": 54
+	},
+	{
+		"title": "TAINTED LOVE",
+		"artist": "Soft Cell",
+		"timeHour": 13,
+		"timeMinutes": 6
+	},
+	{
+		"title": "IF YOU COULD ONLY SEE",
+		"artist": "Tonic",
+		"timeHour": 13,
+		"timeMinutes": 9
+	},
+	{
+		"title": "",
+		"artist": "Loading...",
+		"timeHour": 13,
+		"timeMinutes": 10
+	},
+	{
+		"title": "IF YOU COULD ONLY SEE",
+		"artist": "Tonic",
+		"timeHour": 13,
+		"timeMinutes": 11
+	},
+	{
+		"title": "PLAY THAT SONG",
+		"artist": "Train",
+		"timeHour": 13,
+		"timeMinutes": 13
+	},
+	{
+		"title": "BILLY DONT LOSE MY NUMBER",
+		"artist": "Phil Collins",
+		"timeHour": 13,
+		"timeMinutes": 17
+	},
+	{
+		"title": "ALL OF ME",
+		"artist": "John Legend",
+		"timeHour": 13,
+		"timeMinutes": 22
+	},
+	{
+		"title": "NO SECRETS",
+		"artist": "The Angels",
+		"timeHour": 13,
+		"timeMinutes": 25
+	},
+	{
+		"title": "THESE DAYS",
+		"artist": "RUDIMENTAL, JESS GLYNNE",
+		"timeHour": 13,
+		"timeMinutes": 29
+	},
+	{
+		"title": "DON'T BRING ME DOWN",
+		"artist": "Electric Light Orchestra",
+		"timeHour": 13,
+		"timeMinutes": 33
+	},
+	{
+		"title": "BIG GIRLS DON'T CRY",
+		"artist": "Fergie",
+		"timeHour": 13,
+		"timeMinutes": 41
+	},
+	{
+		"title": "ONION SKIN",
+		"artist": "Boom Crash Opera",
+		"timeHour": 13,
+		"timeMinutes": 46
+	},
+	{
+		"title": "Hold My Girl (NEW MUSIC INTRO MIX106.3)",
+		"artist": "George Ezra",
+		"timeHour": 13,
+		"timeMinutes": 49
+	},
+	{
+		"title": "JOYRIDE",
+		"artist": "Roxette",
+		"timeHour": 13,
+		"timeMinutes": 53
+	}
+]

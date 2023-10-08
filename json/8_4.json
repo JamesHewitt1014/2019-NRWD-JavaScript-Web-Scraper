@@ -1,0 +1,705 @@
+[
+	"PROGRAM INIT 13:9",
+	{
+		"title": "Promises",
+		"artist": "Calvin Harris, Sam Smith",
+		"timeHour": 13,
+		"timeMinutes": 11
+	},
+	{
+		"title": "Come As You Are",
+		"artist": "Nirvana",
+		"timeHour": 13,
+		"timeMinutes": 14
+	},
+	{
+		"title": "Love Is A Battlefield",
+		"artist": "Pat Benatar",
+		"timeHour": 13,
+		"timeMinutes": 18
+	},
+	{
+		"title": "Heart to Heart",
+		"artist": "James Blunt",
+		"timeHour": 13,
+		"timeMinutes": 22
+	},
+	{
+		"title": "The Final Countdown",
+		"artist": "Europe",
+		"timeHour": 13,
+		"timeMinutes": 26
+	},
+	{
+		"title": "Choir",
+		"artist": "Guy Sebastian",
+		"timeHour": 13,
+		"timeMinutes": 31
+	},
+	{
+		"title": "Crazy Little Thing Called Love",
+		"artist": "Queen",
+		"timeHour": 13,
+		"timeMinutes": 34
+	},
+	{
+		"title": "Crazy",
+		"artist": "Seal",
+		"timeHour": 13,
+		"timeMinutes": 37
+	},
+	{
+		"title": "Rain",
+		"artist": "Drought Breakers Feat. Scott Darlow, Sarah McLeod, Adam Brand, Jack Jones & Todd Hunter",
+		"timeHour": 13,
+		"timeMinutes": 46
+	},
+	{
+		"title": "Take on Me",
+		"artist": "a-ha",
+		"timeHour": 13,
+		"timeMinutes": 50
+	},
+	{
+		"title": "Wish You Well",
+		"artist": "Bernard Fanning",
+		"timeHour": 13,
+		"timeMinutes": 53
+	},
+	{
+		"title": "Prologue",
+		"artist": "Johnny Green & His Orchestra",
+		"timeHour": 13,
+		"timeMinutes": 56
+	},
+	{
+		"title": "Just Got Paid",
+		"artist": "Sigala & Ella Eyre & Meghan Trainor",
+		"timeHour": 14,
+		"timeMinutes": 6
+	},
+	{
+		"title": "You Oughta Know",
+		"artist": "Alanis Morissette",
+		"timeHour": 14,
+		"timeMinutes": 10
+	},
+	{
+		"title": "Fast Car",
+		"artist": "Tracy Chapman",
+		"timeHour": 14,
+		"timeMinutes": 17
+	},
+	{
+		"title": "Little Lion Man",
+		"artist": "Mumford & Sons",
+		"timeHour": 14,
+		"timeMinutes": 22
+	},
+	{
+		"title": "Jessie's Girl",
+		"artist": "Rick Springfield",
+		"timeHour": 14,
+		"timeMinutes": 26
+	},
+	{
+		"title": "These Days (Featuring Jess Glynne, Macklemore & Dan Caplen) (DJ Premier Remix)",
+		"artist": "Macklemore",
+		"timeHour": 14,
+		"timeMinutes": 29
+	},
+	{
+		"title": "Da Ya Think I'm Sexy?",
+		"artist": "Rod Stewart",
+		"timeHour": 14,
+		"timeMinutes": 32
+	},
+	{
+		"title": "Feel (Album Version)",
+		"artist": "Robbie Williams",
+		"timeHour": 14,
+		"timeMinutes": 37
+	},
+	{
+		"title": "Onion Skin",
+		"artist": "Boom Crash Opera",
+		"timeHour": 14,
+		"timeMinutes": 46
+	},
+	{
+		"title": "Hold My Girl",
+		"artist": "George Ezra",
+		"timeHour": 14,
+		"timeMinutes": 50
+	},
+	{
+		"title": "That Don't Impress Me Much",
+		"artist": "Shania Twain",
+		"timeHour": 14,
+		"timeMinutes": 54
+	},
+	{
+		"title": "Midnight Blue",
+		"artist": "Lou Gramm",
+		"timeHour": 15,
+		"timeMinutes": 11
+	},
+	{
+		"title": "Love Someone",
+		"artist": "Lukas Graham",
+		"timeHour": 15,
+		"timeMinutes": 15
+	},
+	{
+		"title": "thank u, next",
+		"artist": "Ariana Grande",
+		"timeHour": 15,
+		"timeMinutes": 18
+	},
+	{
+		"title": "(Your Love Keeps Lifting Me) Higher and Higher",
+		"artist": "Jimmy Barnes",
+		"timeHour": 15,
+		"timeMinutes": 21
+	},
+	{
+		"title": "Always Something There to Remind Me",
+		"artist": "Naked Eyes",
+		"timeHour": 15,
+		"timeMinutes": 33
+	},
+	{
+		"title": "Sex on Fire",
+		"artist": "Kings of Leon",
+		"timeHour": 15,
+		"timeMinutes": 36
+	},
+	{
+		"title": "(I Just) Died In Your Arms",
+		"artist": "Cutting Crew",
+		"timeHour": 15,
+		"timeMinutes": 49
+	},
+	{
+		"title": "Beautiful People (feat. Khalid)",
+		"artist": "Ed Sheeran",
+		"timeHour": 15,
+		"timeMinutes": 53
+	},
+	{
+		"title": "Smells Like Teen Spirit",
+		"artist": "Nirvana",
+		"timeHour": 15,
+		"timeMinutes": 59
+	},
+	{
+		"title": "Hungry Like The Wolf",
+		"artist": "Duran Duran",
+		"timeHour": 16,
+		"timeMinutes": 11
+	},
+	{
+		"title": "She's so High",
+		"artist": "Tal Bachman",
+		"timeHour": 16,
+		"timeMinutes": 14
+	},
+	{
+		"title": "A Million Dreams",
+		"artist": "Ziv Zaifman, Hugh Jackman, Michelle Williams",
+		"timeHour": 16,
+		"timeMinutes": 22
+	},
+	{
+		"title": "Who Can It Be Now?",
+		"artist": "Men at Work",
+		"timeHour": 16,
+		"timeMinutes": 51
+	},
+	{
+		"title": "Skin",
+		"artist": "Rag'n'Bone Man",
+		"timeHour": 16,
+		"timeMinutes": 54
+	},
+	{
+		"title": "It's Raining Men",
+		"artist": "Geri Halliwell",
+		"timeHour": 17,
+		"timeMinutes": 10
+	},
+	{
+		"title": "Love Shack",
+		"artist": "The B-52s",
+		"timeHour": 17,
+		"timeMinutes": 12
+	},
+	{
+		"title": "Black Fingernails, Red Wine",
+		"artist": "Eskimo Joe",
+		"timeHour": 17,
+		"timeMinutes": 16
+	},
+	{
+		"title": "Mustang Sally",
+		"artist": "The Commitments & Andrew Strong",
+		"timeHour": 17,
+		"timeMinutes": 25
+	},
+	{
+		"title": "Uptown Girl",
+		"artist": "Billy Joel",
+		"timeHour": 17,
+		"timeMinutes": 39
+	},
+	{
+		"title": "Before I Go",
+		"artist": "Guy Sebastian",
+		"timeHour": 17,
+		"timeMinutes": 42
+	},
+	{
+		"title": "Disco Inferno",
+		"artist": "The Trammps",
+		"timeHour": 17,
+		"timeMinutes": 47
+	},
+	{
+		"title": "What You Need",
+		"artist": "INXS",
+		"timeHour": 17,
+		"timeMinutes": 55
+	},
+	{
+		"title": "Main Title",
+		"artist": "Elmer Bernstein",
+		"timeHour": 18,
+		"timeMinutes": 1
+	},
+	{
+		"title": "Baby Can't Drive",
+		"artist": "Slash, Alice Cooper, & Nicole Scherzinger",
+		"timeHour": 18,
+		"timeMinutes": 8
+	},
+	{
+		"title": "Beds Are Burning",
+		"artist": "Midnight Oil",
+		"timeHour": 18,
+		"timeMinutes": 14
+	},
+	{
+		"title": "Holiday Road",
+		"artist": "Lindsey Buckingham",
+		"timeHour": 18,
+		"timeMinutes": 18
+	},
+	{
+		"title": "Nothing Breaks Like a Heart",
+		"artist": "Mark Ronson feat. Miley Cyrus",
+		"timeHour": 18,
+		"timeMinutes": 34
+	},
+	{
+		"title": "Adelaide",
+		"artist": "Ben Folds",
+		"timeHour": 18,
+		"timeMinutes": 45
+	},
+	{
+		"title": "Baby Did a Bad Bad Thing",
+		"artist": "Chris Isaak",
+		"timeHour": 18,
+		"timeMinutes": 56
+	},
+	{
+		"title": "RED, WHITE & YOU",
+		"artist": "Steven Tyler",
+		"timeHour": 18,
+		"timeMinutes": 59
+	},
+	{
+		"title": "Express Yourself (Local Mix)",
+		"artist": "Madonna",
+		"timeHour": 19,
+		"timeMinutes": 4
+	},
+	{
+		"title": "Chained To The Wheel",
+		"artist": "The Black Sorrows",
+		"timeHour": 19,
+		"timeMinutes": 14
+	},
+	{
+		"title": "Body Talks",
+		"artist": "The Struts Feat. Kesha",
+		"timeHour": 19,
+		"timeMinutes": 34
+	},
+	{
+		"title": "Cream",
+		"artist": "Prince",
+		"timeHour": 19,
+		"timeMinutes": 50
+	},
+	{
+		"title": "Galway Girl",
+		"artist": "Ed Sheeran",
+		"timeHour": 19,
+		"timeMinutes": 54
+	},
+	{
+		"title": "Prologue",
+		"artist": "Johnny Green & His Orchestra",
+		"timeHour": 19,
+		"timeMinutes": 59
+	},
+	{
+		"title": "Similar Features",
+		"artist": "Melissa Etheridge",
+		"timeHour": 20,
+		"timeMinutes": 4
+	},
+	{
+		"title": "Walk Me Home",
+		"artist": "P!nk",
+		"timeHour": 20,
+		"timeMinutes": 9
+	},
+	{
+		"title": "(Everything I Do) I Do It For You",
+		"artist": "Bryan Adams",
+		"timeHour": 20,
+		"timeMinutes": 12
+	},
+	{
+		"title": "Jump",
+		"artist": "Hortlax Cobra",
+		"timeHour": 20,
+		"timeMinutes": 17
+	},
+	{
+		"title": "Good Times",
+		"artist": "Jimmy Barnes",
+		"timeHour": 20,
+		"timeMinutes": 20
+	},
+	{
+		"title": "Can't Fight The Moonlight",
+		"artist": "LeAnn Rimes",
+		"timeHour": 20,
+		"timeMinutes": 23
+	},
+	{
+		"title": "When I See You Smile",
+		"artist": "Bad English",
+		"timeHour": 20,
+		"timeMinutes": 27
+	},
+	{
+		"title": "Choir",
+		"artist": "Guy Sebastian",
+		"timeHour": 20,
+		"timeMinutes": 31
+	},
+	{
+		"title": "I Touch Myself",
+		"artist": "The Divinyls",
+		"timeHour": 20,
+		"timeMinutes": 34
+	},
+	{
+		"title": "Do You Really Want To Hurt Me",
+		"artist": "Culture Club",
+		"timeHour": 20,
+		"timeMinutes": 41
+	},
+	{
+		"title": "Way Down We Go",
+		"artist": "Kaleo",
+		"timeHour": 20,
+		"timeMinutes": 45
+	},
+	{
+		"title": "That's When I Think Of You",
+		"artist": "1927",
+		"timeHour": 20,
+		"timeMinutes": 49
+	},
+	{
+		"title": "Photograph",
+		"artist": "Nickelback",
+		"timeHour": 20,
+		"timeMinutes": 53
+	},
+	{
+		"title": "Relax",
+		"artist": "Frankie Goes to Hollywood",
+		"timeHour": 20,
+		"timeMinutes": 57
+	},
+	{
+		"title": "I'm A Believer",
+		"artist": "Smash Mouth",
+		"timeHour": 21,
+		"timeMinutes": 1
+	},
+	{
+		"title": "Young Years",
+		"artist": "Dragon",
+		"timeHour": 21,
+		"timeMinutes": 5
+	},
+	{
+		"title": "These Days (Dj Premier Remix)",
+		"artist": "Rudimental Feat. Jess Glynne, Macklemore & Dan Caplen",
+		"timeHour": 21,
+		"timeMinutes": 9
+	},
+	{
+		"title": "When I Come Around",
+		"artist": "Green Day",
+		"timeHour": 21,
+		"timeMinutes": 12
+	},
+	{
+		"title": "Red Red Wine",
+		"artist": "UB40",
+		"timeHour": 21,
+		"timeMinutes": 15
+	},
+	{
+		"title": "Poker Face",
+		"artist": "Lady Gaga",
+		"timeHour": 21,
+		"timeMinutes": 21
+	},
+	{
+		"title": "Life in a Northern Town",
+		"artist": "The Dream Academy",
+		"timeHour": 21,
+		"timeMinutes": 26
+	},
+	{
+		"title": "On My Way",
+		"artist": "Sheppard",
+		"timeHour": 21,
+		"timeMinutes": 29
+	},
+	{
+		"title": "Cats In The Cradle",
+		"artist": "Ugly Kid Joe",
+		"timeHour": 21,
+		"timeMinutes": 33
+	},
+	{
+		"title": "Girls on Film",
+		"artist": "Duran Duran",
+		"timeHour": 21,
+		"timeMinutes": 41
+	},
+	{
+		"title": "Parallel Line",
+		"artist": "Keith Urban",
+		"timeHour": 21,
+		"timeMinutes": 44
+	},
+	{
+		"title": "Satisfied",
+		"artist": "Richard Marx",
+		"timeHour": 21,
+		"timeMinutes": 49
+	},
+	{
+		"title": "My Immortal",
+		"artist": "Evanescence",
+		"timeHour": 21,
+		"timeMinutes": 53
+	},
+	{
+		"title": "Thriller",
+		"artist": "Michael Jackson",
+		"timeHour": 21,
+		"timeMinutes": 57
+	},
+	{
+		"title": "Footloose",
+		"artist": "Doveman",
+		"timeHour": 22,
+		"timeMinutes": 0
+	},
+	{
+		"title": "I Want That Man",
+		"artist": "Debbie Harry",
+		"timeHour": 22,
+		"timeMinutes": 4
+	},
+	{
+		"title": "Body Talks",
+		"artist": "The Struts Feat. Kesha",
+		"timeHour": 22,
+		"timeMinutes": 8
+	},
+	{
+		"title": "Somebody to Love",
+		"artist": "George Michael & Queen",
+		"timeHour": 22,
+		"timeMinutes": 11
+	},
+	{
+		"title": "Tainted Love",
+		"artist": "Soft Cell",
+		"timeHour": 22,
+		"timeMinutes": 16
+	},
+	{
+		"title": "Brave",
+		"artist": "Sara Bareilles",
+		"timeHour": 22,
+		"timeMinutes": 21
+	},
+	{
+		"title": "Sweet Child O' Mine",
+		"artist": "Guns N' Roses",
+		"timeHour": 22,
+		"timeMinutes": 25
+	},
+	{
+		"title": "I Don't Care",
+		"artist": "Ed Sheeran & Justin Bieber",
+		"timeHour": 22,
+		"timeMinutes": 31
+	},
+	{
+		"title": "Weather With You",
+		"artist": "Crowded House",
+		"timeHour": 22,
+		"timeMinutes": 34
+	},
+	{
+		"title": "Smells Like Teen Spirit",
+		"artist": "Nirvana",
+		"timeHour": 22,
+		"timeMinutes": 38
+	},
+	{
+		"title": "I Ran (So Far Away)",
+		"artist": "A Flock of Seagulls",
+		"timeHour": 22,
+		"timeMinutes": 41
+	},
+	{
+		"title": "Human",
+		"artist": "Rag'n'Bone Man",
+		"timeHour": 22,
+		"timeMinutes": 45
+	},
+	{
+		"title": "Invisible Touch",
+		"artist": "Genesis",
+		"timeHour": 22,
+		"timeMinutes": 48
+	},
+	{
+		"title": "Hey, Soul Sister",
+		"artist": "Train",
+		"timeHour": 22,
+		"timeMinutes": 52
+	},
+	{
+		"title": "Original Sin",
+		"artist": "INXS",
+		"timeHour": 22,
+		"timeMinutes": 55
+	},
+	{
+		"title": "Send Me An Angel",
+		"artist": "Real Life",
+		"timeHour": 23,
+		"timeMinutes": 2
+	},
+	{
+		"title": "The Horses",
+		"artist": "Daryl Braithwaite",
+		"timeHour": 23,
+		"timeMinutes": 6
+	},
+	{
+		"title": "Day Drunk",
+		"artist": "Morgan Evans",
+		"timeHour": 23,
+		"timeMinutes": 10
+	},
+	{
+		"title": "And She Was",
+		"artist": "Talking Heads",
+		"timeHour": 23,
+		"timeMinutes": 13
+	},
+	{
+		"title": "Uptown Roar",
+		"artist": "MOJ Beatz",
+		"timeHour": 23,
+		"timeMinutes": 20
+	},
+	{
+		"title": "Every Breath You Take",
+		"artist": "The Police",
+		"timeHour": 23,
+		"timeMinutes": 24
+	},
+	{
+		"title": "Love Someone",
+		"artist": "Lukas Graham",
+		"timeHour": 23,
+		"timeMinutes": 28
+	},
+	{
+		"title": "Life In The Fast Lane",
+		"artist": "Eagles",
+		"timeHour": 23,
+		"timeMinutes": 31
+	},
+	{
+		"title": "Good Times",
+		"artist": "Jimmy Barnes",
+		"timeHour": 23,
+		"timeMinutes": 36
+	},
+	{
+		"title": "Wake Me Up",
+		"artist": "Avicii",
+		"timeHour": 23,
+		"timeMinutes": 39
+	},
+	{
+		"title": "Addicted To Love",
+		"artist": "Robert Palmer",
+		"timeHour": 23,
+		"timeMinutes": 43
+	},
+	{
+		"title": "7 Minutes",
+		"artist": "Dean Lewis",
+		"timeHour": 23,
+		"timeMinutes": 47
+	},
+	{
+		"title": "Better",
+		"artist": "The Screaming Jets",
+		"timeHour": 23,
+		"timeMinutes": 50
+	},
+	{
+		"title": "Whip It",
+		"artist": "Devo",
+		"timeHour": 23,
+		"timeMinutes": 55
+	},
+	{
+		"title": "Better Man",
+		"artist": "Robbie Williams",
+		"timeHour": 23,
+		"timeMinutes": 58
+	}
+]

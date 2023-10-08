@@ -1,0 +1,579 @@
+[
+	"PROGRAM INIT 10:14",
+	{
+		"title": "COMING HOME",
+		"artist": "Sheppard",
+		"timeHour": 10,
+		"timeMinutes": 15
+	},
+	{
+		"title": "CHAINED TO THE WHEEL",
+		"artist": "Black Sorrows",
+		"timeHour": 10,
+		"timeMinutes": 18
+	},
+	{
+		"title": "I'M YOURS",
+		"artist": "Jason Mraz",
+		"timeHour": 10,
+		"timeMinutes": 22
+	},
+	{
+		"title": "LEGS",
+		"artist": "ZZ Top",
+		"timeHour": 10,
+		"timeMinutes": 28
+	},
+	{
+		"title": "WHATEVER YOU WANT",
+		"artist": "Pink",
+		"timeHour": 10,
+		"timeMinutes": 32
+	},
+	{
+		"title": "MESSAGE IN A BOTTLE",
+		"artist": "Police",
+		"timeHour": 10,
+		"timeMinutes": 37
+	},
+	{
+		"title": "GRENADE",
+		"artist": "Bruno Mars",
+		"timeHour": 10,
+		"timeMinutes": 45
+	},
+	{
+		"title": "I WANT YOUR LOVE",
+		"artist": "Transvision Vamp",
+		"timeHour": 10,
+		"timeMinutes": 49
+	},
+	{
+		"title": "Before I Go (MIX 106.3 NEW MUSIC INTRO)",
+		"artist": "Guy Sebastian",
+		"timeHour": 10,
+		"timeMinutes": 52
+	},
+	{
+		"title": "FALL AT YOUR FEET",
+		"artist": "Crowded House",
+		"timeHour": 10,
+		"timeMinutes": 56
+	},
+	{
+		"title": "WHY CAN'T THIS BE LOVE?",
+		"artist": "Van Halen",
+		"timeHour": 11,
+		"timeMinutes": 7
+	},
+	{
+		"title": "LEAVE A LIGHT ON",
+		"artist": "Tom Walker",
+		"timeHour": 11,
+		"timeMinutes": 10
+	},
+	{
+		"title": "BEAUTIFUL GIRL",
+		"artist": "INXS",
+		"timeHour": 11,
+		"timeMinutes": 13
+	},
+	{
+		"title": "WAKE ME UP BEFORE YOU GO GO",
+		"artist": "Wham!",
+		"timeHour": 11,
+		"timeMinutes": 18
+	},
+	{
+		"title": "I'M A BELIEVER",
+		"artist": "Smash Mouth",
+		"timeHour": 11,
+		"timeMinutes": 22
+	},
+	{
+		"title": "LAY YOUR HANDS ON ME",
+		"artist": "Bon Jovi",
+		"timeHour": 11,
+		"timeMinutes": 27
+	},
+	{
+		"title": "HAPPIER (MIX 106.3 NEW MUSIC INTRO)",
+		"artist": "MARSHMELLO FT. BASTILLE",
+		"timeHour": 11,
+		"timeMinutes": 33
+	},
+	{
+		"title": "MORE THAN WORDS",
+		"artist": "Extreme",
+		"timeHour": 11,
+		"timeMinutes": 37
+	},
+	{
+		"title": "CHURCH OF THE POISON MIND",
+		"artist": "Culture Club",
+		"timeHour": 11,
+		"timeMinutes": 46
+	},
+	{
+		"title": "WAY DOWN WE GO",
+		"artist": "Kaleo",
+		"timeHour": 11,
+		"timeMinutes": 49
+	},
+	{
+		"title": "SAY YOU WILL",
+		"artist": "Foreigner",
+		"timeHour": 11,
+		"timeMinutes": 52
+	},
+	{
+		"title": "DOCTOR DOCTOR",
+		"artist": "Thompson Twins",
+		"timeHour": 12,
+		"timeMinutes": 5
+	},
+	{
+		"title": "I'D DO ANYTHING FOR LOVE...",
+		"artist": "MEATLOAF",
+		"timeHour": 12,
+		"timeMinutes": 9
+	},
+	{
+		"title": "GALWAY GIRL",
+		"artist": "Ed Sheeran",
+		"timeHour": 12,
+		"timeMinutes": 16
+	},
+	{
+		"title": "SISTERS ARE DOIN IT FOR THEMSELVES",
+		"artist": "EURYTHMICS AND ARETHA FRANKLIN",
+		"timeHour": 12,
+		"timeMinutes": 19
+	},
+	{
+		"title": "FEEL",
+		"artist": "Robbie Williams",
+		"timeHour": 12,
+		"timeMinutes": 25
+	},
+	{
+		"title": "YOU SHOOK ME ALL NIGHT LONG",
+		"artist": "AC/DC",
+		"timeHour": 12,
+		"timeMinutes": 31
+	},
+	{
+		"title": "HEALING HANDS",
+		"artist": "Conrad Sewell",
+		"timeHour": 12,
+		"timeMinutes": 35
+	},
+	{
+		"title": "DON'T STOP",
+		"artist": "Fleetwood Mac",
+		"timeHour": 12,
+		"timeMinutes": 40
+	},
+	{
+		"title": "ALL OF ME",
+		"artist": "John Legend",
+		"timeHour": 12,
+		"timeMinutes": 47
+	},
+	{
+		"title": "GOOD TIMES",
+		"artist": "Hoodoo Gurus",
+		"timeHour": 12,
+		"timeMinutes": 50
+	},
+	{
+		"title": "Body Talks (MIX 106.3 NEW MUSIC INTRO)",
+		"artist": "The Struts",
+		"timeHour": 12,
+		"timeMinutes": 52
+	},
+	{
+		"title": "ANGEL OF HARLEM",
+		"artist": "U2",
+		"timeHour": 13,
+		"timeMinutes": 4
+	},
+	{
+		"title": "A MILLION DREAMS",
+		"artist": "Pink",
+		"timeHour": 13,
+		"timeMinutes": 8
+	},
+	{
+		"title": "HARD TO HANDLE",
+		"artist": "BLACK CROWES",
+		"timeHour": 13,
+		"timeMinutes": 12
+	},
+	{
+		"title": "RELAX",
+		"artist": "FRANKIE GOES TO HOLLY...",
+		"timeHour": 13,
+		"timeMinutes": 17
+	},
+	{
+		"title": "I WILL WAIT",
+		"artist": "Mumford & Sons",
+		"timeHour": 13,
+		"timeMinutes": 20
+	},
+	{
+		"title": "LEAN ON ME",
+		"artist": "Club Nouveau",
+		"timeHour": 13,
+		"timeMinutes": 28
+	},
+	{
+		"title": "Hold My Girl",
+		"artist": "George Ezra",
+		"timeHour": 13,
+		"timeMinutes": 32
+	},
+	{
+		"title": "BETTER MAN",
+		"artist": "PEARL JAM",
+		"timeHour": 13,
+		"timeMinutes": 35
+	},
+	{
+		"title": "TURNING JAPANESE",
+		"artist": "VAPOURS",
+		"timeHour": 13,
+		"timeMinutes": 44
+	},
+	{
+		"title": "LOSE MY MIND",
+		"artist": "Dean Lewis",
+		"timeHour": 13,
+		"timeMinutes": 48
+	},
+	{
+		"title": "MONEY FOR NOTHING",
+		"artist": "Dire Straits",
+		"timeHour": 13,
+		"timeMinutes": 51
+	},
+	{
+		"title": "LET'S DANCE",
+		"artist": "David Bowie",
+		"timeHour": 14,
+		"timeMinutes": 1
+	},
+	{
+		"title": "CRAZY.",
+		"artist": "Seal",
+		"timeHour": 14,
+		"timeMinutes": 5
+	},
+	{
+		"title": "Fresh Eyes",
+		"artist": "Andy Grammer",
+		"timeHour": 14,
+		"timeMinutes": 9
+	},
+	{
+		"title": "POUR SOME SUGAR ON ME",
+		"artist": "DEF LEPPARD",
+		"timeHour": 14,
+		"timeMinutes": 12
+	},
+	{
+		"title": "WHERE IS THE LOVE?",
+		"artist": "BLACK EYED PEAS",
+		"timeHour": 14,
+		"timeMinutes": 16
+	},
+	{
+		"title": "SEXUAL HEALING",
+		"artist": "Marvin Gaye",
+		"timeHour": 14,
+		"timeMinutes": 23
+	},
+	{
+		"title": "Promises",
+		"artist": "CALVIN HARRIS, SAM SMITH",
+		"timeHour": 14,
+		"timeMinutes": 27
+	},
+	{
+		"title": "ROXANNE",
+		"artist": "Police",
+		"timeHour": 14,
+		"timeMinutes": 31
+	},
+	{
+		"title": "LIFE IS A ROLLERCOASTER",
+		"artist": "Ronan Keating",
+		"timeHour": 14,
+		"timeMinutes": 37
+	},
+	{
+		"title": "RUN TO YOU",
+		"artist": "Bryan Adams",
+		"timeHour": 14,
+		"timeMinutes": 41
+	},
+	{
+		"title": "On My Way",
+		"artist": "Sheppard",
+		"timeHour": 14,
+		"timeMinutes": 44
+	},
+	{
+		"title": "HIGHER AND HIGHER",
+		"artist": "Jimmy Barnes",
+		"timeHour": 14,
+		"timeMinutes": 48
+	},
+	{
+		"title": "WHAT IS LOVE.",
+		"artist": "Haddaway",
+		"timeHour": 14,
+		"timeMinutes": 51
+	},
+	{
+		"title": "I WANT THAT MAN",
+		"artist": "Deborah Harry",
+		"timeHour": 15,
+		"timeMinutes": 0
+	},
+	{
+		"title": "Shallow",
+		"artist": "Lady Gaga & Bradley Cooper",
+		"timeHour": 15,
+		"timeMinutes": 3
+	},
+	{
+		"title": "MOUNTAIN",
+		"artist": "Chocolate Starfish",
+		"timeHour": 15,
+		"timeMinutes": 7
+	},
+	{
+		"title": "HEAVEN MUST BE THERE",
+		"artist": "Eurogliders",
+		"timeHour": 15,
+		"timeMinutes": 12
+	},
+	{
+		"title": "ROLLING IN THE DEEP",
+		"artist": "Adele",
+		"timeHour": 15,
+		"timeMinutes": 15
+	},
+	{
+		"title": "BREAKAWAY",
+		"artist": "Big Pig",
+		"timeHour": 15,
+		"timeMinutes": 22
+	},
+	{
+		"title": "My Wave (MIX106.3 NEW MUSIC INTRO)",
+		"artist": "Keith Urban",
+		"timeHour": 15,
+		"timeMinutes": 26
+	},
+	{
+		"title": "ALWAYS",
+		"artist": "Bon Jovi",
+		"timeHour": 15,
+		"timeMinutes": 29
+	},
+	{
+		"title": "PRIVATE EYES",
+		"artist": "HALL AND OATES",
+		"timeHour": 15,
+		"timeMinutes": 37
+	},
+	{
+		"title": "WHAT ABOUT US?",
+		"artist": "Pink",
+		"timeHour": 15,
+		"timeMinutes": 41
+	},
+	{
+		"title": "NOTHIN' BUT A GOOD TIME",
+		"artist": "Poison",
+		"timeHour": 15,
+		"timeMinutes": 45
+	},
+	{
+		"title": "BEHIND THESE HAZEL EYES",
+		"artist": "Kelly Clarkson",
+		"timeHour": 15,
+		"timeMinutes": 48
+	},
+	{
+		"title": "BE GOOD JOHNNY",
+		"artist": "Men at Work",
+		"timeHour": 15,
+		"timeMinutes": 56
+	},
+	{
+		"title": "I TOUCH MYSELF",
+		"artist": "Divinyls",
+		"timeHour": 16,
+		"timeMinutes": 0
+	},
+	{
+		"title": "SKIN",
+		"artist": "Rag'n'Bone Man",
+		"timeHour": 16,
+		"timeMinutes": 4
+	},
+	{
+		"title": "A KIND OF MAGIC",
+		"artist": "Queen",
+		"timeHour": 16,
+		"timeMinutes": 7
+	},
+	{
+		"title": "HOT N COLD",
+		"artist": "Katy Perry",
+		"timeHour": 16,
+		"timeMinutes": 11
+	},
+	{
+		"title": "ORIGINAL SIN",
+		"artist": "INXS",
+		"timeHour": 16,
+		"timeMinutes": 18
+	},
+	{
+		"title": "Love Someone",
+		"artist": "Lukas Graham",
+		"timeHour": 16,
+		"timeMinutes": 22
+	},
+	{
+		"title": "DON'T BRING ME DOWN",
+		"artist": "Electric Light Orchestra",
+		"timeHour": 16,
+		"timeMinutes": 25
+	},
+	{
+		"title": "SUGAR",
+		"artist": "Maroon 5",
+		"timeHour": 16,
+		"timeMinutes": 33
+	},
+	{
+		"title": "LITTLE LIES",
+		"artist": "Fleetwood Mac",
+		"timeHour": 16,
+		"timeMinutes": 37
+	},
+	{
+		"title": "NEVER EVER (MIX 106.3 NEW MUSIC INTRO)",
+		"artist": "The Rubens",
+		"timeHour": 16,
+		"timeMinutes": 40
+	},
+	{
+		"title": "LIFE IS A HIGHWAY",
+		"artist": "Tom Cochrane",
+		"timeHour": 16,
+		"timeMinutes": 44
+	},
+	{
+		"title": "SWEET CHILD O' MINE",
+		"artist": "GUNS'N'ROSES",
+		"timeHour": 16,
+		"timeMinutes": 51
+	},
+	{
+		"title": "THESE DAYS",
+		"artist": "RUDIMENTAL, JESS GLYNNE",
+		"timeHour": 16,
+		"timeMinutes": 57
+	},
+	{
+		"title": "UNDER THE BRIDGE",
+		"artist": "RED HOT CHILI PEPPERS",
+		"timeHour": 17,
+		"timeMinutes": 1
+	},
+	{
+		"title": "KING OF PAIN",
+		"artist": "Police",
+		"timeHour": 17,
+		"timeMinutes": 5
+	},
+	{
+		"title": "LOVE STORY",
+		"artist": "Taylor Swift",
+		"timeHour": 17,
+		"timeMinutes": 10
+	},
+	{
+		"title": "DON'T DREAM ITS OVER",
+		"artist": "Crowded House",
+		"timeHour": 17,
+		"timeMinutes": 14
+	},
+	{
+		"title": "7 Minutes",
+		"artist": "Dean Lewis",
+		"timeHour": 17,
+		"timeMinutes": 17
+	},
+	{
+		"title": "ROCKS",
+		"artist": "Primal Scream",
+		"timeHour": 17,
+		"timeMinutes": 21
+	},
+	{
+		"title": "WHO WILL SAVE YOUR SOUL?",
+		"artist": "Jewel",
+		"timeHour": 17,
+		"timeMinutes": 24
+	},
+	{
+		"title": "GLORY DAYS",
+		"artist": "Bruce Springsteen",
+		"timeHour": 20,
+		"timeMinutes": 21
+	},
+	{
+		"title": "LEAVE A LIGHT ON",
+		"artist": "Tom Walker",
+		"timeHour": 20,
+		"timeMinutes": 24
+	},
+	{
+		"title": "ONLY TO BE WITH YOU",
+		"artist": "Roachford",
+		"timeHour": 20,
+		"timeMinutes": 28
+	},
+	{
+		"title": "RED RED WINE",
+		"artist": "UB40",
+		"timeHour": 20,
+		"timeMinutes": 31
+	},
+	{
+		"title": "WAKE ME UP",
+		"artist": "Avicii",
+		"timeHour": 20,
+		"timeMinutes": 37
+	},
+	{
+		"title": "TOUCH",
+		"artist": "Noiseworks",
+		"timeHour": 20,
+		"timeMinutes": 41
+	},
+	{
+		"title": "HAPPIER (MIX 106.3 NEW MUSIC INTRO)",
+		"artist": "MARSHMELLO FT. BASTILLE",
+		"timeHour": 20,
+		"timeMinutes": 46
+	}
+]

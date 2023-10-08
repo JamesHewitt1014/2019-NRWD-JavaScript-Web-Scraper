@@ -1,0 +1,423 @@
+[
+	"PROGRAM INIT 9:51",
+	{
+		"title": "WISH YOU WELL",
+		"artist": "Bernard Fanning",
+		"timeHour": 9,
+		"timeMinutes": 52
+	},
+	{
+		"title": "THRILLER",
+		"artist": "Michael Jackson",
+		"timeHour": 10,
+		"timeMinutes": 6
+	},
+	{
+		"title": "BLAZE OF GLORY",
+		"artist": "Jon Bon Jovi",
+		"timeHour": 10,
+		"timeMinutes": 9
+	},
+	{
+		"title": "WASTED TIME",
+		"artist": "Keith Urban",
+		"timeHour": 10,
+		"timeMinutes": 14
+	},
+	{
+		"title": "MAKE ME LOSE CONTROL",
+		"artist": "Eric Carmen",
+		"timeHour": 10,
+		"timeMinutes": 17
+	},
+	{
+		"title": "I GOTTA FEELING",
+		"artist": "BLACK EYED PEAS",
+		"timeHour": 10,
+		"timeMinutes": 22
+	},
+	{
+		"title": "NO SECOND PRIZE",
+		"artist": "Jimmy Barnes",
+		"timeHour": 10,
+		"timeMinutes": 26
+	},
+	{
+		"title": "A MILLION DREAMS",
+		"artist": "Pink",
+		"timeHour": 10,
+		"timeMinutes": 30
+	},
+	{
+		"title": "DON'T BRING ME DOWN",
+		"artist": "Electric Light Orchestra",
+		"timeHour": 10,
+		"timeMinutes": 34
+	},
+	{
+		"title": "BEHIND THESE HAZEL EYES",
+		"artist": "Kelly Clarkson",
+		"timeHour": 10,
+		"timeMinutes": 38
+	},
+	{
+		"title": "IT'S THE END OF THE WORLD AS WE KNOW IT",
+		"artist": "R.E.M.",
+		"timeHour": 10,
+		"timeMinutes": 49
+	},
+	{
+		"title": "On My Way (MIX 106.3 NEW MUSIC INTRO)",
+		"artist": "Sheppard",
+		"timeHour": 10,
+		"timeMinutes": 52
+	},
+	{
+		"title": "AS THE DAYS GO BY",
+		"artist": "Daryl Braithwaite",
+		"timeHour": 11,
+		"timeMinutes": 6
+	},
+	{
+		"title": "Promises",
+		"artist": "CALVIN HARRIS, SAM SMITH",
+		"timeHour": 11,
+		"timeMinutes": 10
+	},
+	{
+		"title": "SOMEBODY'S CRYING",
+		"artist": "Chris Isaak",
+		"timeHour": 11,
+		"timeMinutes": 13
+	},
+	{
+		"title": "WHITE WEDDING",
+		"artist": "Billy Idol",
+		"timeHour": 11,
+		"timeMinutes": 16
+	},
+	{
+		"title": "HEART TO HEART",
+		"artist": "James Blunt",
+		"timeHour": 11,
+		"timeMinutes": 19
+	},
+	{
+		"title": "THE BEST",
+		"artist": "Tina Turner",
+		"timeHour": 11,
+		"timeMinutes": 23
+	},
+	{
+		"title": "Hold My Girl (NEW MUSIC INTRO MIX106.3)",
+		"artist": "George Ezra",
+		"timeHour": 11,
+		"timeMinutes": 27
+	},
+	{
+		"title": "THAT DON'T IMPRESS ME MUCH",
+		"artist": "Shania Twain",
+		"timeHour": 11,
+		"timeMinutes": 30
+	},
+	{
+		"title": "EVERY LITTLE THING SHE DOES IS MAGIC",
+		"artist": "Police",
+		"timeHour": 11,
+		"timeMinutes": 41
+	},
+	{
+		"title": "WAY DOWN WE GO",
+		"artist": "Kaleo",
+		"timeHour": 11,
+		"timeMinutes": 45
+	},
+	{
+		"title": "A KIND OF MAGIC",
+		"artist": "Queen",
+		"timeHour": 11,
+		"timeMinutes": 49
+	},
+	{
+		"title": "HOT N COLD",
+		"artist": "Katy Perry",
+		"timeHour": 11,
+		"timeMinutes": 53
+	},
+	{
+		"title": "",
+		"artist": "Loading...",
+		"timeHour": 12,
+		"timeMinutes": 2
+	},
+	{
+		"title": "HOT N COLD",
+		"artist": "Katy Perry",
+		"timeHour": 12,
+		"timeMinutes": 3
+	},
+	{
+		"title": "Body Talks",
+		"artist": "The Struts",
+		"timeHour": 12,
+		"timeMinutes": 17
+	},
+	{
+		"title": "FLASHDANCE",
+		"artist": "Irene Cara",
+		"timeHour": 12,
+		"timeMinutes": 20
+	},
+	{
+		"title": "SOMETHING I NEED",
+		"artist": "One Republic",
+		"timeHour": 12,
+		"timeMinutes": 24
+	},
+	{
+		"title": "KYRIE",
+		"artist": "MR MISTER",
+		"timeHour": 12,
+		"timeMinutes": 28
+	},
+	{
+		"title": "THE FIGHTER",
+		"artist": "Keith Urban",
+		"timeHour": 12,
+		"timeMinutes": 33
+	},
+	{
+		"title": "I'D DO ANYTHING FOR LOVE...",
+		"artist": "MEATLOAF",
+		"timeHour": 12,
+		"timeMinutes": 35
+	},
+	{
+		"title": "YOU MAY BE RIGHT",
+		"artist": "Billy Joel",
+		"timeHour": 12,
+		"timeMinutes": 41
+	},
+	{
+		"title": "PLAY THAT SONG",
+		"artist": "Train",
+		"timeHour": 12,
+		"timeMinutes": 53
+	},
+	{
+		"title": "TAKE ON ME",
+		"artist": "AHA",
+		"timeHour": 12,
+		"timeMinutes": 57
+	},
+	{
+		"title": "TUCKERS DAUGHTER",
+		"artist": "Ian Moss",
+		"timeHour": 13,
+		"timeMinutes": 13
+	},
+	{
+		"title": "Walk Me Home",
+		"artist": "Pink",
+		"timeHour": 13,
+		"timeMinutes": 17
+	},
+	{
+		"title": "BREAKFAST AT TIFFANY'S",
+		"artist": "Deep Blue Something",
+		"timeHour": 13,
+		"timeMinutes": 20
+	},
+	{
+		"title": "HOLD ME NOW",
+		"artist": "Thompson Twins",
+		"timeHour": 13,
+		"timeMinutes": 24
+	},
+	{
+		"title": "ROCK DJ",
+		"artist": "Robbie Williams",
+		"timeHour": 13,
+		"timeMinutes": 28
+	},
+	{
+		"title": "SUMMER OF '69",
+		"artist": "Bryan Adams",
+		"timeHour": 13,
+		"timeMinutes": 32
+	},
+	{
+		"title": "7 Minutes (NEW MUSIC INTRO MIX106.3)",
+		"artist": "Dean Lewis",
+		"timeHour": 13,
+		"timeMinutes": 36
+	},
+	{
+		"title": "EDGE OF SEVENTEEN",
+		"artist": "Stevie Nicks",
+		"timeHour": 13,
+		"timeMinutes": 39
+	},
+	{
+		"title": "TORN",
+		"artist": "Natalie Imbruglia",
+		"timeHour": 13,
+		"timeMinutes": 51
+	},
+	{
+		"title": "CAKE BY THE OCEAN",
+		"artist": "DNCE",
+		"timeHour": 13,
+		"timeMinutes": 55
+	},
+	{
+		"title": "WHAT IS LOVE",
+		"artist": "Howard Jones",
+		"timeHour": 14,
+		"timeMinutes": 9
+	},
+	{
+		"title": "BREAK MY STRIDE",
+		"artist": "Unique II",
+		"timeHour": 14,
+		"timeMinutes": 13
+	},
+	{
+		"title": "SHAPE OF YOU",
+		"artist": "Ed Sheeran",
+		"timeHour": 14,
+		"timeMinutes": 16
+	},
+	{
+		"title": "SOUNDS OF THEN",
+		"artist": "GANGAJANG",
+		"timeHour": 14,
+		"timeMinutes": 20
+	},
+	{
+		"title": "WAKE ME UP",
+		"artist": "Avicii",
+		"timeHour": 14,
+		"timeMinutes": 24
+	},
+	{
+		"title": "BEAST OF BURDEN",
+		"artist": "Bette Midler",
+		"timeHour": 14,
+		"timeMinutes": 28
+	},
+	{
+		"title": "Before I Go",
+		"artist": "Guy Sebastian",
+		"timeHour": 14,
+		"timeMinutes": 31
+	},
+	{
+		"title": "SULTANS OF SWING",
+		"artist": "Dire Straits",
+		"timeHour": 14,
+		"timeMinutes": 35
+	},
+	{
+		"title": "BLANK SPACE",
+		"artist": "Taylor Swift",
+		"timeHour": 14,
+		"timeMinutes": 47
+	},
+	{
+		"title": "DREAMS",
+		"artist": "Van Halen",
+		"timeHour": 14,
+		"timeMinutes": 51
+	},
+	{
+		"title": "YOUNG YEARS",
+		"artist": "Dragon",
+		"timeHour": 15,
+		"timeMinutes": 8
+	},
+	{
+		"title": "Love Someone",
+		"artist": "Lukas Graham",
+		"timeHour": 15,
+		"timeMinutes": 12
+	},
+	{
+		"title": "ALL STAR",
+		"artist": "Smash Mouth",
+		"timeHour": 15,
+		"timeMinutes": 20
+	},
+	{
+		"title": "TAINTED LOVE",
+		"artist": "Soft Cell",
+		"timeHour": 15,
+		"timeMinutes": 32
+	},
+	{
+		"title": "SEX ON FIRE",
+		"artist": "Kings of Leon",
+		"timeHour": 15,
+		"timeMinutes": 35
+	},
+	{
+		"title": "THAT'S WHEN I THINK OF YOU",
+		"artist": "1927",
+		"timeHour": 15,
+		"timeMinutes": 46
+	},
+	{
+		"title": "Nothing Breaks Like A Heart (Mix 106.3 New Music Intro)",
+		"artist": "Mark Ronson ft Miley Cyrus",
+		"timeHour": 15,
+		"timeMinutes": 49
+	},
+	{
+		"title": "LEGS",
+		"artist": "ZZ Top",
+		"timeHour": 16,
+		"timeMinutes": 5
+	},
+	{
+		"title": "BABY DID A BAD BAD THING",
+		"artist": "Chris Isaak",
+		"timeHour": 16,
+		"timeMinutes": 10
+	},
+	{
+		"title": "EXES & OH'S",
+		"artist": "Elle King",
+		"timeHour": 16,
+		"timeMinutes": 17
+	},
+	{
+		"title": "THROW YOUR ARMS AROUND ME",
+		"artist": "HUNTERS & COLLECTORS",
+		"timeHour": 16,
+		"timeMinutes": 32
+	},
+	{
+		"title": "WAKE UP CALL",
+		"artist": "Maroon 5",
+		"timeHour": 16,
+		"timeMinutes": 36
+	},
+	{
+		"title": "BOYS IN TOWN",
+		"artist": "Divinyls",
+		"timeHour": 16,
+		"timeMinutes": 47
+	},
+	{
+		"title": "THESE DAYS",
+		"artist": "RUDIMENTAL, JESS GLYNNE",
+		"timeHour": 16,
+		"timeMinutes": 50
+	},
+	{
+		"title": "HERE I GO AGAIN",
+		"artist": "Whitesnake",
+		"timeHour": 17,
+		"timeMinutes": 6
+	}
+]

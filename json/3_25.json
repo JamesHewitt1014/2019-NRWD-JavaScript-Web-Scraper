@@ -1,0 +1,381 @@
+[
+	"PROGRAM INIT 12:11",
+	{
+		"title": "GLORY DAYS",
+		"artist": "Bruce Springsteen",
+		"timeHour": 12,
+		"timeMinutes": 12
+	},
+	{
+		"title": "LEAVE A LIGHT ON",
+		"artist": "Tom Walker",
+		"timeHour": 12,
+		"timeMinutes": 15
+	},
+	{
+		"title": "SHE'S SO HIGH",
+		"artist": "Tal Bachman",
+		"timeHour": 12,
+		"timeMinutes": 19
+	},
+	{
+		"title": "WAKE ME UP BEFORE YOU GO GO",
+		"artist": "Wham!",
+		"timeHour": 12,
+		"timeMinutes": 22
+	},
+	{
+		"title": "HOW YOU REMIND ME",
+		"artist": "Nickelback",
+		"timeHour": 12,
+		"timeMinutes": 26
+	},
+	{
+		"title": "LIFE IN A NORTHERN TOWN",
+		"artist": "Dream Academy",
+		"timeHour": 12,
+		"timeMinutes": 30
+	},
+	{
+		"title": "HAPPIER (MIX 106.3 NEW MUSIC INTRO)",
+		"artist": "MARSHMELLO FT. BASTILLE",
+		"timeHour": 12,
+		"timeMinutes": 34
+	},
+	{
+		"title": "BREAK MY STRIDE",
+		"artist": "Unique II",
+		"timeHour": 12,
+		"timeMinutes": 37
+	},
+	{
+		"title": "ORIGINAL SIN",
+		"artist": "INXS",
+		"timeHour": 12,
+		"timeMinutes": 45
+	},
+	{
+		"title": "PLAY THAT SONG",
+		"artist": "Train",
+		"timeHour": 12,
+		"timeMinutes": 48
+	},
+	{
+		"title": "IS THIS LOVE",
+		"artist": "Whitesnake",
+		"timeHour": 12,
+		"timeMinutes": 52
+	},
+	{
+		"title": "BIG YELLOW TAXI",
+		"artist": "COUNTING CROWES AND VANESSA CA",
+		"timeHour": 12,
+		"timeMinutes": 57
+	},
+	{
+		"title": "CENTERFOLD",
+		"artist": "J GEILS BAND",
+		"timeHour": 13,
+		"timeMinutes": 16
+	},
+	{
+		"title": "IF YOU COULD ONLY SEE",
+		"artist": "Tonic",
+		"timeHour": 13,
+		"timeMinutes": 19
+	},
+	{
+		"title": "FEEL IT STILL",
+		"artist": "Portugal The Man",
+		"timeHour": 13,
+		"timeMinutes": 24
+	},
+	{
+		"title": "TO HER DOOR",
+		"artist": "Paul Kelly",
+		"timeHour": 13,
+		"timeMinutes": 26
+	},
+	{
+		"title": "BLAME IT ON ME",
+		"artist": "George Ezra",
+		"timeHour": 13,
+		"timeMinutes": 30
+	},
+	{
+		"title": "PRIDE (IN THE NAME OF LOVE)",
+		"artist": "U2",
+		"timeHour": 13,
+		"timeMinutes": 33
+	},
+	{
+		"title": "SULTANS OF SWING",
+		"artist": "Dire Straits",
+		"timeHour": 13,
+		"timeMinutes": 36
+	},
+	{
+		"title": "POKER FACE",
+		"artist": "Lady Gaga",
+		"timeHour": 13,
+		"timeMinutes": 46
+	},
+	{
+		"title": "My Wave (MIX106.3 NEW MUSIC INTRO)",
+		"artist": "Keith Urban",
+		"timeHour": 13,
+		"timeMinutes": 50
+	},
+	{
+		"title": "BED OF ROSES",
+		"artist": "Bon Jovi",
+		"timeHour": 13,
+		"timeMinutes": 53
+	},
+	{
+		"title": "TWO STRONG HEARTS",
+		"artist": "John Farnham",
+		"timeHour": 14,
+		"timeMinutes": 19
+	},
+	{
+		"title": "LIFE IS A HIGHWAY",
+		"artist": "Tom Cochrane",
+		"timeHour": 14,
+		"timeMinutes": 22
+	},
+	{
+		"title": "HOLD ME NOW",
+		"artist": "Thompson Twins",
+		"timeHour": 14,
+		"timeMinutes": 26
+	},
+	{
+		"title": "I DON'T FEEL LIKE DANCING",
+		"artist": "Scissor Sisters",
+		"timeHour": 14,
+		"timeMinutes": 30
+	},
+	{
+		"title": "CRY IN SHAME",
+		"artist": "Diesel",
+		"timeHour": 14,
+		"timeMinutes": 34
+	},
+	{
+		"title": "I'LL STAND BY YOU",
+		"artist": "Pretenders",
+		"timeHour": 14,
+		"timeMinutes": 39
+	},
+	{
+		"title": "JUMP",
+		"artist": "Van Halen",
+		"timeHour": 14,
+		"timeMinutes": 48
+	},
+	{
+		"title": "BLACK VELVET",
+		"artist": "Alannah Myles",
+		"timeHour": 14,
+		"timeMinutes": 52
+	},
+	{
+		"title": "ARE YOU GONNA BE MY GIRL",
+		"artist": "Jet",
+		"timeHour": 14,
+		"timeMinutes": 56
+	},
+	{
+		"title": "UPTOWN GIRL",
+		"artist": "Billy Joel",
+		"timeHour": 15,
+		"timeMinutes": 14
+	},
+	{
+		"title": "I WANT YOU",
+		"artist": "Savage Garden",
+		"timeHour": 15,
+		"timeMinutes": 18
+	},
+	{
+		"title": "BE ALRIGHT",
+		"artist": "Dean Lewis",
+		"timeHour": 15,
+		"timeMinutes": 21
+	},
+	{
+		"title": "ONION SKIN",
+		"artist": "Boom Crash Opera",
+		"timeHour": 15,
+		"timeMinutes": 24
+	},
+	{
+		"title": "DROPS OF JUPITER (TELL ME)",
+		"artist": "Train",
+		"timeHour": 15,
+		"timeMinutes": 30
+	},
+	{
+		"title": "PRIVATE EYES",
+		"artist": "HALL AND OATES",
+		"timeHour": 15,
+		"timeMinutes": 34
+	},
+	{
+		"title": "THESE DAYS",
+		"artist": "RUDIMENTAL, JESS GLYNNE",
+		"timeHour": 15,
+		"timeMinutes": 37
+	},
+	{
+		"title": "ROXANNE",
+		"artist": "Police",
+		"timeHour": 15,
+		"timeMinutes": 41
+	},
+	{
+		"title": "FOREVER YOUNG",
+		"artist": "Youth Group",
+		"timeHour": 15,
+		"timeMinutes": 49
+	},
+	{
+		"title": "THORN IN MY SIDE",
+		"artist": "Eurythmics",
+		"timeHour": 15,
+		"timeMinutes": 52
+	},
+	{
+		"title": "Before I Go (MIX 106.3 NEW MUSIC INTRO)",
+		"artist": "Guy Sebastian",
+		"timeHour": 15,
+		"timeMinutes": 56
+	},
+	{
+		"title": "MIDNIGHT BLUE",
+		"artist": "Lou Gramm",
+		"timeHour": 16,
+		"timeMinutes": 14
+	},
+	{
+		"title": "HEALING HANDS",
+		"artist": "Conrad Sewell",
+		"timeHour": 16,
+		"timeMinutes": 18
+	},
+	{
+		"title": "FALL AT YOUR FEET",
+		"artist": "Crowded House",
+		"timeHour": 16,
+		"timeMinutes": 21
+	},
+	{
+		"title": "EYE OF THE TIGER",
+		"artist": "Survivor",
+		"timeHour": 16,
+		"timeMinutes": 25
+	},
+	{
+		"title": "SINCE U BEEN GONE.",
+		"artist": "Kelly Clarkson",
+		"timeHour": 16,
+		"timeMinutes": 31
+	},
+	{
+		"title": "WILD WORLD",
+		"artist": "Maxi Priest",
+		"timeHour": 16,
+		"timeMinutes": 34
+	},
+	{
+		"title": "NEVER EVER (MIX 106.3 NEW MUSIC INTRO)",
+		"artist": "The Rubens",
+		"timeHour": 16,
+		"timeMinutes": 38
+	},
+	{
+		"title": "LET ME ENTERTAIN YOU",
+		"artist": "Robbie Williams",
+		"timeHour": 16,
+		"timeMinutes": 41
+	},
+	{
+		"title": "BOW RIVER",
+		"artist": "Cold Chisel",
+		"timeHour": 16,
+		"timeMinutes": 50
+	},
+	{
+		"title": "THERE'S NOTHING HOLDIN' ME BACK",
+		"artist": "Shawn Mendes",
+		"timeHour": 16,
+		"timeMinutes": 55
+	},
+	{
+		"title": "RELAX",
+		"artist": "FRANKIE GOES TO HOLLY...",
+		"timeHour": 17,
+		"timeMinutes": 15
+	},
+	{
+		"title": "DON'T SPEAK",
+		"artist": "No Doubt",
+		"timeHour": 17,
+		"timeMinutes": 19
+	},
+	{
+		"title": "WAY DOWN WE GO",
+		"artist": "Kaleo",
+		"timeHour": 17,
+		"timeMinutes": 24
+	},
+	{
+		"title": "SHOULD'VE KNOWN BETTER",
+		"artist": "Richard Marx",
+		"timeHour": 17,
+		"timeMinutes": 27
+	},
+	{
+		"title": "WHERE IS THE LOVE?",
+		"artist": "BLACK EYED PEAS",
+		"timeHour": 17,
+		"timeMinutes": 33
+	},
+	{
+		"title": "HIT ME WITH YOUR BEST SHOT",
+		"artist": "Pat Benatar",
+		"timeHour": 17,
+		"timeMinutes": 37
+	},
+	{
+		"title": "A MILLION DREAMS",
+		"artist": "Pink",
+		"timeHour": 17,
+		"timeMinutes": 40
+	},
+	{
+		"title": "HEARTACHE TONIGHT",
+		"artist": "Eagles",
+		"timeHour": 17,
+		"timeMinutes": 44
+	},
+	{
+		"title": "RUN TO PARADISE",
+		"artist": "The Choirboys",
+		"timeHour": 17,
+		"timeMinutes": 54
+	},
+	{
+		"title": "Hold My Girl (NEW MUSIC INTRO MIX106.3)",
+		"artist": "George Ezra",
+		"timeHour": 17,
+		"timeMinutes": 58
+	},
+	{
+		"title": "SEND ME AN ANGEL",
+		"artist": "Real Life",
+		"timeHour": 18,
+		"timeMinutes": 10
+	}
+]

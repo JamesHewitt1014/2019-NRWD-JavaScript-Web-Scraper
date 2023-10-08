@@ -1,0 +1,441 @@
+[
+	"PROGRAM INIT 10:52",
+	{
+		"title": "JOYRIDE",
+		"artist": "Roxette",
+		"timeHour": 10,
+		"timeMinutes": 54
+	},
+	{
+		"title": "FOREVER NOW",
+		"artist": "Cold Chisel",
+		"timeHour": 10,
+		"timeMinutes": 54
+	},
+	{
+		"title": "THE FINAL COUNTDOWN",
+		"artist": "EUROPE",
+		"timeHour": 11,
+		"timeMinutes": 8
+	},
+	{
+		"title": "A MILLION DREAMS",
+		"artist": "Pink",
+		"timeHour": 11,
+		"timeMinutes": 13
+	},
+	{
+		"title": "UNDER THE BRIDGE",
+		"artist": "RED HOT CHILI PEPPERS",
+		"timeHour": 11,
+		"timeMinutes": 17
+	},
+	{
+		"title": "COME ON EILEEN",
+		"artist": "Dexys Midnight Runners",
+		"timeHour": 11,
+		"timeMinutes": 21
+	},
+	{
+		"title": "LOVE STORY",
+		"artist": "Taylor Swift",
+		"timeHour": 11,
+		"timeMinutes": 25
+	},
+	{
+		"title": "SEVEN WONDERS",
+		"artist": "Fleetwood Mac",
+		"timeHour": 11,
+		"timeMinutes": 30
+	},
+	{
+		"title": "My Wave (MIX106.3 NEW MUSIC INTRO)",
+		"artist": "Keith Urban",
+		"timeHour": 11,
+		"timeMinutes": 34
+	},
+	{
+		"title": "KEEP THE FAITH",
+		"artist": "Bon Jovi",
+		"timeHour": 11,
+		"timeMinutes": 36
+	},
+	{
+		"title": "",
+		"artist": "Loading...",
+		"timeHour": 11,
+		"timeMinutes": 39
+	},
+	{
+		"title": "WAKE ME UP BEFORE YOU GO GO",
+		"artist": "Wham!",
+		"timeHour": 11,
+		"timeMinutes": 40
+	},
+	{
+		"title": "COMING HOME",
+		"artist": "Sheppard",
+		"timeHour": 11,
+		"timeMinutes": 50
+	},
+	{
+		"title": "WHAT'S MY SCENE",
+		"artist": "Hoodoo Gurus",
+		"timeHour": 11,
+		"timeMinutes": 53
+	},
+	{
+		"title": "CAN'T FIGHT THE MOONLIGHT",
+		"artist": "Leann Rimes",
+		"timeHour": 11,
+		"timeMinutes": 57
+	},
+	{
+		"title": "HUMAN",
+		"artist": "Rag'n'Bone Man",
+		"timeHour": 12,
+		"timeMinutes": 19
+	},
+	{
+		"title": "MANIC MONDAY",
+		"artist": "Bangles",
+		"timeHour": 12,
+		"timeMinutes": 21
+	},
+	{
+		"title": "SOMETHING I NEED",
+		"artist": "One Republic",
+		"timeHour": 12,
+		"timeMinutes": 24
+	},
+	{
+		"title": "ROSANNA",
+		"artist": "Toto",
+		"timeHour": 12,
+		"timeMinutes": 29
+	},
+	{
+		"title": "Shallow",
+		"artist": "Lady Gaga & Bradley Cooper",
+		"timeHour": 12,
+		"timeMinutes": 32
+	},
+	{
+		"title": "WE WILL ROCK YOU",
+		"artist": "Queen",
+		"timeHour": 12,
+		"timeMinutes": 36
+	},
+	{
+		"title": "Body Talks (MIX 106.3 NEW MUSIC INTRO)",
+		"artist": "The Struts",
+		"timeHour": 12,
+		"timeMinutes": 38
+	},
+	{
+		"title": "NOTHINGS GONNA STOP US NOW",
+		"artist": "Starship",
+		"timeHour": 12,
+		"timeMinutes": 46
+	},
+	{
+		"title": "BIG GIRLS DON'T CRY",
+		"artist": "Fergie",
+		"timeHour": 12,
+		"timeMinutes": 51
+	},
+	{
+		"title": "HOLY GRAIL",
+		"artist": "HUNTERS & COLLECTORS",
+		"timeHour": 12,
+		"timeMinutes": 55
+	},
+	{
+		"title": "SOMETHING SO STRONG",
+		"artist": "Crowded House",
+		"timeHour": 13,
+		"timeMinutes": 8
+	},
+	{
+		"title": "Promises",
+		"artist": "CALVIN HARRIS, SAM SMITH",
+		"timeHour": 13,
+		"timeMinutes": 10
+	},
+	{
+		"title": "I'D DO ANYTHING FOR LOVE...",
+		"artist": "MEATLOAF",
+		"timeHour": 13,
+		"timeMinutes": 13
+	},
+	{
+		"title": "WHAT ABOUT ME",
+		"artist": "Moving Pictures",
+		"timeHour": 13,
+		"timeMinutes": 20
+	},
+	{
+		"title": "UPTOWN FUNK",
+		"artist": "MARK RONSON/BRUNO MARS",
+		"timeHour": 13,
+		"timeMinutes": 24
+	},
+	{
+		"title": "SAY YOU WILL",
+		"artist": "Foreigner",
+		"timeHour": 13,
+		"timeMinutes": 28
+	},
+	{
+		"title": "Before I Go (MIX 106.3 NEW MUSIC INTRO)",
+		"artist": "Guy Sebastian",
+		"timeHour": 13,
+		"timeMinutes": 32
+	},
+	{
+		"title": "WEIR",
+		"artist": "Killing Heidi",
+		"timeHour": 13,
+		"timeMinutes": 35
+	},
+	{
+		"title": "1999",
+		"artist": "Prince",
+		"timeHour": 13,
+		"timeMinutes": 38
+	},
+	{
+		"title": "SLOW HANDS",
+		"artist": "Niall Horan",
+		"timeHour": 13,
+		"timeMinutes": 47
+	},
+	{
+		"title": "YOU'RE THE VOICE",
+		"artist": "John Farnham",
+		"timeHour": 13,
+		"timeMinutes": 49
+	},
+	{
+		"title": "MY IMMORTAL",
+		"artist": "Evanescence",
+		"timeHour": 13,
+		"timeMinutes": 54
+	},
+	{
+		"title": "FLASHDANCE",
+		"artist": "Irene Cara",
+		"timeHour": 14,
+		"timeMinutes": 8
+	},
+	{
+		"title": "THE WEIGHT",
+		"artist": "JIMMY BARNES AND THE BADLOVES",
+		"timeHour": 14,
+		"timeMinutes": 11
+	},
+	{
+		"title": "THUNDER",
+		"artist": "Imagine Dragons",
+		"timeHour": 14,
+		"timeMinutes": 15
+	},
+	{
+		"title": "LIKE A PRAYER",
+		"artist": "Madonna",
+		"timeHour": 14,
+		"timeMinutes": 18
+	},
+	{
+		"title": "SOMEBODY THAT I USED TO KNOW",
+		"artist": "Gotye",
+		"timeHour": 14,
+		"timeMinutes": 21
+	},
+	{
+		"title": "SUNDAY BLOODY SUNDAY (LIVE)",
+		"artist": "U2",
+		"timeHour": 14,
+		"timeMinutes": 25
+	},
+	{
+		"title": "WHATEVER YOU WANT",
+		"artist": "Pink",
+		"timeHour": 14,
+		"timeMinutes": 31
+	},
+	{
+		"title": "IMAGINE",
+		"artist": "John Lennon",
+		"timeHour": 14,
+		"timeMinutes": 41
+	},
+	{
+		"title": "WISH YOU WELL",
+		"artist": "Bernard Fanning",
+		"timeHour": 14,
+		"timeMinutes": 43
+	},
+	{
+		"title": "BABY I DON'T CARE",
+		"artist": "Transvision Vamp",
+		"timeHour": 14,
+		"timeMinutes": 45
+	},
+	{
+		"title": "On My Way (MIX 106.3 NEW MUSIC INTRO)",
+		"artist": "Sheppard",
+		"timeHour": 14,
+		"timeMinutes": 50
+	},
+	{
+		"title": "I'LL BE MISSING YOU",
+		"artist": "Puff Daddy",
+		"timeHour": 14,
+		"timeMinutes": 54
+	},
+	{
+		"title": "HERE I GO AGAIN",
+		"artist": "Whitesnake",
+		"timeHour": 15,
+		"timeMinutes": 6
+	},
+	{
+		"title": "LEAVE A LIGHT ON",
+		"artist": "Tom Walker",
+		"timeHour": 15,
+		"timeMinutes": 10
+	},
+	{
+		"title": "LOSING MY RELIGION",
+		"artist": "R.E.M.",
+		"timeHour": 15,
+		"timeMinutes": 17
+	},
+	{
+		"title": "ALWAYS SOMETHING THERE TO REMIND ME",
+		"artist": "Naked Eyes",
+		"timeHour": 15,
+		"timeMinutes": 32
+	},
+	{
+		"title": "THE MIDDLE",
+		"artist": "Jimmy Eat World",
+		"timeHour": 15,
+		"timeMinutes": 35
+	},
+	{
+		"title": "THE BEST",
+		"artist": "Tina Turner",
+		"timeHour": 15,
+		"timeMinutes": 45
+	},
+	{
+		"title": "7 Minutes (NEW MUSIC INTRO MIX106.3)",
+		"artist": "Dean Lewis",
+		"timeHour": 15,
+		"timeMinutes": 49
+	},
+	{
+		"title": "YOU OUGHTA KNOW",
+		"artist": "Alanis Morissette",
+		"timeHour": 15,
+		"timeMinutes": 52
+	},
+	{
+		"title": "GIRLS JUST WANNA HAVE FUN",
+		"artist": "Cyndi Lauper",
+		"timeHour": 16,
+		"timeMinutes": 7
+	},
+	{
+		"title": "MUSTANG SALLY",
+		"artist": "COMMITMENTS",
+		"timeHour": 16,
+		"timeMinutes": 11
+	},
+	{
+		"title": "IT'S A BEAUTIFUL DAY",
+		"artist": "Michael Buble",
+		"timeHour": 16,
+		"timeMinutes": 19
+	},
+	{
+		"title": "BRING ME SOME WATER",
+		"artist": "Melissa Etheridge",
+		"timeHour": 16,
+		"timeMinutes": 32
+	},
+	{
+		"title": "FEEL IT STILL",
+		"artist": "Portugal The Man",
+		"timeHour": 16,
+		"timeMinutes": 36
+	},
+	{
+		"title": "EVERY LITTLE THING SHE DOES IS MAGIC",
+		"artist": "Police",
+		"timeHour": 16,
+		"timeMinutes": 48
+	},
+	{
+		"title": "Love Someone",
+		"artist": "Lukas Graham",
+		"timeHour": 16,
+		"timeMinutes": 52
+	},
+	{
+		"title": "TUCKERS DAUGHTER",
+		"artist": "Ian Moss",
+		"timeHour": 17,
+		"timeMinutes": 6
+	},
+	{
+		"title": "THESE DAYS",
+		"artist": "RUDIMENTAL, JESS GLYNNE",
+		"timeHour": 17,
+		"timeMinutes": 10
+	},
+	{
+		"title": "THE IMPRESSION THAT I GET",
+		"artist": "MIGHTY MIGHTY BOSSTONES",
+		"timeHour": 17,
+		"timeMinutes": 18
+	},
+	{
+		"title": "HEAVEN MUST BE THERE",
+		"artist": "Eurogliders",
+		"timeHour": 17,
+		"timeMinutes": 29
+	},
+	{
+		"title": "RUDE",
+		"artist": "Magic!",
+		"timeHour": 17,
+		"timeMinutes": 32
+	},
+	{
+		"title": "LOVE SHACK",
+		"artist": "B52s",
+		"timeHour": 17,
+		"timeMinutes": 42
+	},
+	{
+		"title": "HAPPIER (MIX 106.3 NEW MUSIC INTRO)",
+		"artist": "MARSHMELLO FT. BASTILLE",
+		"timeHour": 17,
+		"timeMinutes": 46
+	},
+	{
+		"title": "TWO PRINCES",
+		"artist": "Spin Doctors",
+		"timeHour": 17,
+		"timeMinutes": 50
+	},
+	{
+		"title": "BEDS ARE BURNING",
+		"artist": "Midnight Oil",
+		"timeHour": 18,
+		"timeMinutes": 9
+	}
+]

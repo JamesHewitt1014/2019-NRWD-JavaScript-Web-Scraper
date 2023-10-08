@@ -1,0 +1,753 @@
+[
+	"PROGRAM INIT 12:32",
+	{
+		"title": "Baby I Don't Care",
+		"artist": "Transvision Vamp",
+		"timeHour": 12,
+		"timeMinutes": 34
+	},
+	{
+		"title": "Good Lord",
+		"artist": "Birds of Tokyo",
+		"timeHour": 12,
+		"timeMinutes": 38
+	},
+	{
+		"title": "Be Good Johnny",
+		"artist": "Men at Work",
+		"timeHour": 12,
+		"timeMinutes": 41
+	},
+	{
+		"title": "Man! I Feel Like A Woman!",
+		"artist": "Shania Twain",
+		"timeHour": 12,
+		"timeMinutes": 49
+	},
+	{
+		"title": "RED, WHITE & YOU",
+		"artist": "Steven Tyler",
+		"timeHour": 12,
+		"timeMinutes": 53
+	},
+	{
+		"title": "Eye Of The Tiger",
+		"artist": "Survivor",
+		"timeHour": 12,
+		"timeMinutes": 56
+	},
+	{
+		"title": "Fall At Your Feet",
+		"artist": "Crowded House",
+		"timeHour": 13,
+		"timeMinutes": 11
+	},
+	{
+		"title": "Cake By The Ocean",
+		"artist": "DNCE",
+		"timeHour": 13,
+		"timeMinutes": 14
+	},
+	{
+		"title": "Driving Wheels",
+		"artist": "Jimmy Barnes",
+		"timeHour": 13,
+		"timeMinutes": 18
+	},
+	{
+		"title": "Unwell",
+		"artist": "Matchbox Twenty",
+		"timeHour": 13,
+		"timeMinutes": 23
+	},
+	{
+		"title": "You May Be Right",
+		"artist": "Billy Joel",
+		"timeHour": 13,
+		"timeMinutes": 26
+	},
+	{
+		"title": "A Million Dreams",
+		"artist": "Ziv Zaifman, Hugh Jackman, Michelle Williams",
+		"timeHour": 13,
+		"timeMinutes": 30
+	},
+	{
+		"title": "I Need A Lover",
+		"artist": "John Mellencamp",
+		"timeHour": 13,
+		"timeMinutes": 33
+	},
+	{
+		"title": "Behind These Hazel Eyes",
+		"artist": "Kelly Clarkson",
+		"timeHour": 13,
+		"timeMinutes": 41
+	},
+	{
+		"title": "Invisible Touch",
+		"artist": "Genesis",
+		"timeHour": 13,
+		"timeMinutes": 44
+	},
+	{
+		"title": "On My Way",
+		"artist": "Sheppard",
+		"timeHour": 13,
+		"timeMinutes": 47
+	},
+	{
+		"title": "Lightning Crashes",
+		"artist": "Live",
+		"timeHour": 13,
+		"timeMinutes": 51
+	},
+	{
+		"title": "You Can Call Me Al",
+		"artist": "Paul Simon",
+		"timeHour": 14,
+		"timeMinutes": 5
+	},
+	{
+		"title": "Before I Go",
+		"artist": "Guy Sebastian",
+		"timeHour": 14,
+		"timeMinutes": 10
+	},
+	{
+		"title": "Life Is A Highway",
+		"artist": "Tom Cochrane",
+		"timeHour": 14,
+		"timeMinutes": 14
+	},
+	{
+		"title": "What Is Love?",
+		"artist": "Howard Jones",
+		"timeHour": 14,
+		"timeMinutes": 17
+	},
+	{
+		"title": "I Gotta Feeling",
+		"artist": "The Black Eyed Peas",
+		"timeHour": 14,
+		"timeMinutes": 21
+	},
+	{
+		"title": "Listen Like Thieves",
+		"artist": "INXS",
+		"timeHour": 14,
+		"timeMinutes": 25
+	},
+	{
+		"title": "I Don't Care",
+		"artist": "Ed Sheeran & Justin Bieber",
+		"timeHour": 14,
+		"timeMinutes": 29
+	},
+	{
+		"title": "All That She Wants",
+		"artist": "Ace Of Base",
+		"timeHour": 14,
+		"timeMinutes": 33
+	},
+	{
+		"title": "What About Me?",
+		"artist": "Moving Pictures",
+		"timeHour": 14,
+		"timeMinutes": 36
+	},
+	{
+		"title": "Somebody Told Me",
+		"artist": "The Killers",
+		"timeHour": 14,
+		"timeMinutes": 45
+	},
+	{
+		"title": "Little Lies",
+		"artist": "Fleetwood Mac",
+		"timeHour": 14,
+		"timeMinutes": 50
+	},
+	{
+		"title": "To Be With You",
+		"artist": "Mr. Big",
+		"timeHour": 14,
+		"timeMinutes": 52
+	},
+	{
+		"title": "Day Drunk",
+		"artist": "Morgan Evans",
+		"timeHour": 14,
+		"timeMinutes": 56
+	},
+	{
+		"title": "Relax",
+		"artist": "Frankie Goes to Hollywood",
+		"timeHour": 15,
+		"timeMinutes": 8
+	},
+	{
+		"title": "I Touch Myself",
+		"artist": "The Divinyls",
+		"timeHour": 15,
+		"timeMinutes": 12
+	},
+	{
+		"title": "Lose My Mind",
+		"artist": "Dean Lewis",
+		"timeHour": 15,
+		"timeMinutes": 20
+	},
+	{
+		"title": "The Best",
+		"artist": "Tina Turner",
+		"timeHour": 15,
+		"timeMinutes": 30
+	},
+	{
+		"title": "Nothing Breaks Like a Heart",
+		"artist": "Mark Ronson feat. Miley Cyrus",
+		"timeHour": 15,
+		"timeMinutes": 34
+	},
+	{
+		"title": "White Wedding",
+		"artist": "Billy Idol",
+		"timeHour": 15,
+		"timeMinutes": 41
+	},
+	{
+		"title": "Hey, Soul Sister",
+		"artist": "Train",
+		"timeHour": 15,
+		"timeMinutes": 52
+	},
+	{
+		"title": "Prologue",
+		"artist": "Johnny Green & His Orchestra",
+		"timeHour": 15,
+		"timeMinutes": 57
+	},
+	{
+		"title": "Run To You",
+		"artist": "Bryan Adams",
+		"timeHour": 16,
+		"timeMinutes": 8
+	},
+	{
+		"title": "Leave a Light On",
+		"artist": "Tom Walker",
+		"timeHour": 16,
+		"timeMinutes": 11
+	},
+	{
+		"title": "All Star",
+		"artist": "Smash Mouth",
+		"timeHour": 16,
+		"timeMinutes": 19
+	},
+	{
+		"title": "Thriller",
+		"artist": "Michael Jackson",
+		"timeHour": 16,
+		"timeMinutes": 30
+	},
+	{
+		"title": "Bring Me To Life",
+		"artist": "Evanescence",
+		"timeHour": 16,
+		"timeMinutes": 33
+	},
+	{
+		"title": "Forgiven, Not Forgotten",
+		"artist": "The Corrs",
+		"timeHour": 16,
+		"timeMinutes": 39
+	},
+	{
+		"title": "Hot for Teacher",
+		"artist": "Van Halen",
+		"timeHour": 16,
+		"timeMinutes": 40
+	},
+	{
+		"title": "Roxanne",
+		"artist": "The Police",
+		"timeHour": 16,
+		"timeMinutes": 42
+	},
+	{
+		"title": "Believe",
+		"artist": "Cher",
+		"timeHour": 16,
+		"timeMinutes": 43
+	},
+	{
+		"title": "Kyrie",
+		"artist": "Mr. Mister",
+		"timeHour": 16,
+		"timeMinutes": 48
+	},
+	{
+		"title": "Today's The Day",
+		"artist": "P!nk",
+		"timeHour": 16,
+		"timeMinutes": 54
+	},
+	{
+		"title": "Good Times",
+		"artist": "Jimmy Barnes",
+		"timeHour": 16,
+		"timeMinutes": 59
+	},
+	{
+		"title": "Private Eyes",
+		"artist": "Daryl Hall & John Oates",
+		"timeHour": 17,
+		"timeMinutes": 10
+	},
+	{
+		"title": "Weir",
+		"artist": "Killing Heidi",
+		"timeHour": 17,
+		"timeMinutes": 13
+	},
+	{
+		"title": "Healing Hands",
+		"artist": "Conrad Sewell",
+		"timeHour": 17,
+		"timeMinutes": 21
+	},
+	{
+		"title": "When Tomorrow Comes",
+		"artist": "Eurythmics",
+		"timeHour": 17,
+		"timeMinutes": 36
+	},
+	{
+		"title": "Body Talks",
+		"artist": "The Struts Feat. Kesha",
+		"timeHour": 17,
+		"timeMinutes": 40
+	},
+	{
+		"title": "Every Little Thing She Does Is Magic",
+		"artist": "The Police",
+		"timeHour": 17,
+		"timeMinutes": 50
+	},
+	{
+		"title": "Budapest",
+		"artist": "George Ezra",
+		"timeHour": 17,
+		"timeMinutes": 54
+	},
+	{
+		"title": "Baby Can't Drive",
+		"artist": "Slash, Alice Cooper, & Nicole Scherzinger",
+		"timeHour": 18,
+		"timeMinutes": 8
+	},
+	{
+		"title": "Walk of Life",
+		"artist": "Dire Straits",
+		"timeHour": 18,
+		"timeMinutes": 14
+	},
+	{
+		"title": "Promises",
+		"artist": "Calvin Harris, Sam Smith",
+		"timeHour": 18,
+		"timeMinutes": 37
+	},
+	{
+		"title": "Good Times",
+		"artist": "Jimmy Barnes",
+		"timeHour": 18,
+		"timeMinutes": 47
+	},
+	{
+		"title": "Keep The Faith",
+		"artist": "Bon Jovi",
+		"timeHour": 18,
+		"timeMinutes": 56
+	},
+	{
+		"title": "Wasted Time",
+		"artist": "Keith Urban",
+		"timeHour": 18,
+		"timeMinutes": 59
+	},
+	{
+		"title": "Baby Can't Drive",
+		"artist": "Slash, Alice Cooper, & Nicole Scherzinger",
+		"timeHour": 19,
+		"timeMinutes": 9
+	},
+	{
+		"title": "The Boys Light Up",
+		"artist": "Australian Crawl",
+		"timeHour": 19,
+		"timeMinutes": 17
+	},
+	{
+		"title": "Walk Me Home",
+		"artist": "P!nk",
+		"timeHour": 19,
+		"timeMinutes": 39
+	},
+	{
+		"title": "Two Princes",
+		"artist": "Spin Doctors",
+		"timeHour": 19,
+		"timeMinutes": 52
+	},
+	{
+		"title": "Play That Song",
+		"artist": "Train",
+		"timeHour": 19,
+		"timeMinutes": 55
+	},
+	{
+		"title": "Prologue",
+		"artist": "Johnny Green & His Orchestra",
+		"timeHour": 20,
+		"timeMinutes": 0
+	},
+	{
+		"title": "I Knew You Were Waiting (For Me)",
+		"artist": "George Michael & Aretha Franklin",
+		"timeHour": 20,
+		"timeMinutes": 5
+	},
+	{
+		"title": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",
+		"artist": "Rudimental",
+		"timeHour": 20,
+		"timeMinutes": 9
+	},
+	{
+		"title": "Only Wanna Be with You",
+		"artist": "Hootie & the Blowfish",
+		"timeHour": 20,
+		"timeMinutes": 12
+	},
+	{
+		"title": "Flame Trees",
+		"artist": "Cold Chisel",
+		"timeHour": 20,
+		"timeMinutes": 16
+	},
+	{
+		"title": "Hot N Cold",
+		"artist": "Katy Perry",
+		"timeHour": 20,
+		"timeMinutes": 23
+	},
+	{
+		"title": "Now We're Getting Somewhere",
+		"artist": "Crowded House",
+		"timeHour": 20,
+		"timeMinutes": 28
+	},
+	{
+		"title": "7 Minutes",
+		"artist": "Dean Lewis",
+		"timeHour": 20,
+		"timeMinutes": 31
+	},
+	{
+		"title": "Holy Grail",
+		"artist": "Hunters & Collectors",
+		"timeHour": 20,
+		"timeMinutes": 35
+	},
+	{
+		"title": "Love My Way",
+		"artist": "The Psychedelic Furs",
+		"timeHour": 20,
+		"timeMinutes": 42
+	},
+	{
+		"title": "Slow Hands",
+		"artist": "Niall Horan",
+		"timeHour": 20,
+		"timeMinutes": 45
+	},
+	{
+		"title": "Nothing's Gonna Stop Us Now",
+		"artist": "Starship",
+		"timeHour": 20,
+		"timeMinutes": 49
+	},
+	{
+		"title": "The Middle",
+		"artist": "Jimmy Eat World",
+		"timeHour": 20,
+		"timeMinutes": 54
+	},
+	{
+		"title": "Beat It",
+		"artist": "Michael Jackson",
+		"timeHour": 20,
+		"timeMinutes": 56
+	},
+	{
+		"title": "Prologue",
+		"artist": "Johnny Green & His Orchestra",
+		"timeHour": 21,
+		"timeMinutes": 0
+	},
+	{
+		"title": "Nothin' But A Good Time",
+		"artist": "Poison",
+		"timeHour": 21,
+		"timeMinutes": 4
+	},
+	{
+		"title": "Nothing Breaks Like a Heart",
+		"artist": "Mark Ronson feat. Miley Cyrus",
+		"timeHour": 21,
+		"timeMinutes": 8
+	},
+	{
+		"title": "The King of Wishful Thinking",
+		"artist": "Go West",
+		"timeHour": 21,
+		"timeMinutes": 12
+	},
+	{
+		"title": "Legs",
+		"artist": "ZZ Top",
+		"timeHour": 21,
+		"timeMinutes": 15
+	},
+	{
+		"title": "Marry You",
+		"artist": "Bruno Mars",
+		"timeHour": 21,
+		"timeMinutes": 23
+	},
+	{
+		"title": "Love Shack",
+		"artist": "The B-52s",
+		"timeHour": 21,
+		"timeMinutes": 27
+	},
+	{
+		"title": "Going Down/ Love In An Elevator",
+		"artist": "Aerosmith",
+		"timeHour": 21,
+		"timeMinutes": 35
+	},
+	{
+		"title": "More Than This",
+		"artist": "Roxy Music",
+		"timeHour": 21,
+		"timeMinutes": 42
+	},
+	{
+		"title": "There's Nothing Holdin' Me Back",
+		"artist": "Shawn Mendes",
+		"timeHour": 21,
+		"timeMinutes": 46
+	},
+	{
+		"title": "Songbird",
+		"artist": "Kenny G",
+		"timeHour": 21,
+		"timeMinutes": 49
+	},
+	{
+		"title": "The Reason",
+		"artist": "Hoobastank",
+		"timeHour": 21,
+		"timeMinutes": 53
+	},
+	{
+		"title": "Uptown Girl",
+		"artist": "Billy Joel",
+		"timeHour": 21,
+		"timeMinutes": 57
+	},
+	{
+		"title": "Pride (In The Name Of Love)",
+		"artist": "U2",
+		"timeHour": 22,
+		"timeMinutes": 3
+	},
+	{
+		"title": "Under the Bridge",
+		"artist": "Red Hot Chili Peppers",
+		"timeHour": 22,
+		"timeMinutes": 7
+	},
+	{
+		"title": "Feel It Still",
+		"artist": "Portugal. The Man",
+		"timeHour": 22,
+		"timeMinutes": 12
+	},
+	{
+		"title": "Wishing Well",
+		"artist": "Terence Trent D'Arby",
+		"timeHour": 22,
+		"timeMinutes": 14
+	},
+	{
+		"title": "Sex on Fire",
+		"artist": "Kings of Leon",
+		"timeHour": 22,
+		"timeMinutes": 21
+	},
+	{
+		"title": "Flashdance...What A Feeling (Radio Edit)",
+		"artist": "Irene Cara",
+		"timeHour": 22,
+		"timeMinutes": 24
+	},
+	{
+		"title": "Love Someone",
+		"artist": "Lukas Graham",
+		"timeHour": 22,
+		"timeMinutes": 28
+	},
+	{
+		"title": "Don't Bring Me Down",
+		"artist": "Electric Light Orchestra",
+		"timeHour": 22,
+		"timeMinutes": 31
+	},
+	{
+		"title": "Prologue",
+		"artist": "Johnny Green & His Orchestra",
+		"timeHour": 22,
+		"timeMinutes": 35
+	},
+	{
+		"title": "Dangerous",
+		"artist": "Roxette",
+		"timeHour": 22,
+		"timeMinutes": 38
+	},
+	{
+		"title": "Razor",
+		"artist": "Foo Fighters",
+		"timeHour": 22,
+		"timeMinutes": 39
+	},
+	{
+		"title": "You're Gonna Break My Heart Again",
+		"artist": "Whitesnake",
+		"timeHour": 22,
+		"timeMinutes": 42
+	},
+	{
+		"title": "Hold My Girl",
+		"artist": "George Ezra",
+		"timeHour": 22,
+		"timeMinutes": 46
+	},
+	{
+		"title": "Break My Stride",
+		"artist": "Unique II",
+		"timeHour": 22,
+		"timeMinutes": 50
+	},
+	{
+		"title": "Sea of Love",
+		"artist": "The Honeydrippers",
+		"timeHour": 22,
+		"timeMinutes": 53
+	},
+	{
+		"title": "Black Fingernails, Red Wine",
+		"artist": "Eskimo Joe",
+		"timeHour": 22,
+		"timeMinutes": 56
+	},
+	{
+		"title": "Raspberry Beret",
+		"artist": "Prince",
+		"timeHour": 23,
+		"timeMinutes": 3
+	},
+	{
+		"title": "Before I Go",
+		"artist": "Guy Sebastian",
+		"timeHour": 23,
+		"timeMinutes": 6
+	},
+	{
+		"title": "Hey Jealousy",
+		"artist": "Gin Blossoms",
+		"timeHour": 23,
+		"timeMinutes": 10
+	},
+	{
+		"title": "Cool World",
+		"artist": "Mondo Rock",
+		"timeHour": 23,
+		"timeMinutes": 14
+	},
+	{
+		"title": "Wake Up Call",
+		"artist": "Maroon 5",
+		"timeHour": 23,
+		"timeMinutes": 20
+	},
+	{
+		"title": "The Look",
+		"artist": "Roxette",
+		"timeHour": 23,
+		"timeMinutes": 23
+	},
+	{
+		"title": "Beautiful People (feat. Khalid)",
+		"artist": "Ed Sheeran",
+		"timeHour": 23,
+		"timeMinutes": 27
+	},
+	{
+		"title": "Semi-Charmed Life",
+		"artist": "Third Eye Blind",
+		"timeHour": 23,
+		"timeMinutes": 30
+	},
+	{
+		"title": "I Can Dream About You",
+		"artist": "Dan Hartman",
+		"timeHour": 23,
+		"timeMinutes": 37
+	},
+	{
+		"title": "Skin",
+		"artist": "Rag'n'Bone Man",
+		"timeHour": 23,
+		"timeMinutes": 41
+	},
+	{
+		"title": "Like a Prayer",
+		"artist": "Madonna",
+		"timeHour": 23,
+		"timeMinutes": 44
+	},
+	{
+		"title": "Are You Gonna Be My Girl",
+		"artist": "Jet",
+		"timeHour": 23,
+		"timeMinutes": 47
+	},
+	{
+		"title": "I Want To Break Free",
+		"artist": "Queen",
+		"timeHour": 23,
+		"timeMinutes": 51
+	},
+	{
+		"title": "I Want You",
+		"artist": "Savage Garden",
+		"timeHour": 23,
+		"timeMinutes": 54
+	}
+]

@@ -1,0 +1,441 @@
+[
+	"PROGRAM INIT 12:30",
+	{
+		"title": "Love Story [Stripped]",
+		"artist": "Taylor Swift",
+		"timeHour": 12,
+		"timeMinutes": 31
+	},
+	{
+		"title": "Bring Me Some Water",
+		"artist": "Melissa Etheridge",
+		"timeHour": 12,
+		"timeMinutes": 33
+	},
+	{
+		"title": "Beautiful People (feat. Khalid)",
+		"artist": "Ed Sheeran",
+		"timeHour": 12,
+		"timeMinutes": 37
+	},
+	{
+		"title": "When You're Gone",
+		"artist": "Bryan Adams & Melanie C",
+		"timeHour": 12,
+		"timeMinutes": 46
+	},
+	{
+		"title": "Beat It",
+		"artist": "Michael Jackson",
+		"timeHour": 12,
+		"timeMinutes": 49
+	},
+	{
+		"title": "Play That Song",
+		"artist": "Train",
+		"timeHour": 12,
+		"timeMinutes": 53
+	},
+	{
+		"title": "Seven Wonders",
+		"artist": "Fleetwood Mac",
+		"timeHour": 12,
+		"timeMinutes": 57
+	},
+	{
+		"title": "Jessie's Girl",
+		"artist": "Rick Springfield",
+		"timeHour": 13,
+		"timeMinutes": 1
+	},
+	{
+		"title": "Solid Rock",
+		"artist": "Goanna",
+		"timeHour": 13,
+		"timeMinutes": 11
+	},
+	{
+		"title": "Cream",
+		"artist": "Prince",
+		"timeHour": 13,
+		"timeMinutes": 15
+	},
+	{
+		"title": "Coming Home",
+		"artist": "Sheppard",
+		"timeHour": 13,
+		"timeMinutes": 19
+	},
+	{
+		"title": "Wild World",
+		"artist": "Maxi Priest",
+		"timeHour": 13,
+		"timeMinutes": 23
+	},
+	{
+		"title": "How Far We've Come",
+		"artist": "Matchbox Twenty",
+		"timeHour": 13,
+		"timeMinutes": 26
+	},
+	{
+		"title": "Private Eyes",
+		"artist": "Daryl Hall & John Oates",
+		"timeHour": 13,
+		"timeMinutes": 29
+	},
+	{
+		"title": "Walk Me Home",
+		"artist": "P!nk",
+		"timeHour": 13,
+		"timeMinutes": 33
+	},
+	{
+		"title": "Khe Sanh",
+		"artist": "Cold Chisel",
+		"timeHour": 13,
+		"timeMinutes": 36
+	},
+	{
+		"title": "Good Lord",
+		"artist": "Birds of Tokyo",
+		"timeHour": 13,
+		"timeMinutes": 40
+	},
+	{
+		"title": "One Less Day (Dying Young)",
+		"artist": "Rob Thomas",
+		"timeHour": 13,
+		"timeMinutes": 43
+	},
+	{
+		"title": "Don't Leave Me This Way (with Sarah Jane Morris)",
+		"artist": "The Communards",
+		"timeHour": 13,
+		"timeMinutes": 49
+	},
+	{
+		"title": "It's My Life",
+		"artist": "Bon Jovi",
+		"timeHour": 13,
+		"timeMinutes": 53
+	},
+	{
+		"title": "Summer Rain",
+		"artist": "Paul Buckmaster & Belinda Carlisle",
+		"timeHour": 13,
+		"timeMinutes": 57
+	},
+	{
+		"title": "Just Got Paid",
+		"artist": "Sigala & Ella Eyre & Meghan Trainor",
+		"timeHour": 14,
+		"timeMinutes": 7
+	},
+	{
+		"title": "Summer Rain",
+		"artist": "Paul Buckmaster & Belinda Carlisle",
+		"timeHour": 14,
+		"timeMinutes": 8
+	},
+	{
+		"title": "Rude",
+		"artist": "MAGIC!",
+		"timeHour": 14,
+		"timeMinutes": 12
+	},
+	{
+		"title": "Just A Girl",
+		"artist": "No Doubt",
+		"timeHour": 14,
+		"timeMinutes": 16
+	},
+	{
+		"title": "Come On Eileen",
+		"artist": "Dexys Midnight Runners",
+		"timeHour": 14,
+		"timeMinutes": 19
+	},
+	{
+		"title": "Nothing Breaks Like a Heart",
+		"artist": "Mark Ronson feat. Miley Cyrus",
+		"timeHour": 14,
+		"timeMinutes": 24
+	},
+	{
+		"title": "Nothin' But A Good Time",
+		"artist": "Poison",
+		"timeHour": 14,
+		"timeMinutes": 28
+	},
+	{
+		"title": "7 Minutes",
+		"artist": "Dean Lewis",
+		"timeHour": 14,
+		"timeMinutes": 31
+	},
+	{
+		"title": "I'm Still Standing",
+		"artist": "Elton John",
+		"timeHour": 14,
+		"timeMinutes": 35
+	},
+	{
+		"title": "Unbelievable",
+		"artist": "EMF",
+		"timeHour": 14,
+		"timeMinutes": 43
+	},
+	{
+		"title": "RED, WHITE & YOU",
+		"artist": "Steven Tyler",
+		"timeHour": 14,
+		"timeMinutes": 47
+	},
+	{
+		"title": "Chained To The Wheel",
+		"artist": "The Black Sorrows",
+		"timeHour": 14,
+		"timeMinutes": 50
+	},
+	{
+		"title": "Holiday In Spain",
+		"artist": "Counting Crows",
+		"timeHour": 14,
+		"timeMinutes": 53
+	},
+	{
+		"title": "Hit Me With Your Best Shot",
+		"artist": "Pat Benatar",
+		"timeHour": 15,
+		"timeMinutes": 9
+	},
+	{
+		"title": "Walking in Memphis",
+		"artist": "Marc Cohn",
+		"timeHour": 15,
+		"timeMinutes": 12
+	},
+	{
+		"title": "WWE: Break The Walls Down [Chris Jericho]",
+		"artist": "James A. Johnston",
+		"timeHour": 15,
+		"timeMinutes": 16
+	},
+	{
+		"title": "The Fighter",
+		"artist": "Keith Urban & Carrie Underwood",
+		"timeHour": 15,
+		"timeMinutes": 21
+	},
+	{
+		"title": "Hungry Eyes",
+		"artist": "Eric Carmen",
+		"timeHour": 15,
+		"timeMinutes": 34
+	},
+	{
+		"title": "Body Talks",
+		"artist": "The Struts Feat. Kesha",
+		"timeHour": 15,
+		"timeMinutes": 37
+	},
+	{
+		"title": "Galway Girl",
+		"artist": "Ed Sheeran",
+		"timeHour": 15,
+		"timeMinutes": 45
+	},
+	{
+		"title": "Tainted Love",
+		"artist": "Soft Cell",
+		"timeHour": 15,
+		"timeMinutes": 49
+	},
+	{
+		"title": "Wake Up Call",
+		"artist": "Maroon 5",
+		"timeHour": 15,
+		"timeMinutes": 52
+	},
+	{
+		"title": "You're My Best Friend",
+		"artist": "Queen",
+		"timeHour": 15,
+		"timeMinutes": 55
+	},
+	{
+		"title": "I Want Your Love",
+		"artist": "Transvision Vamp",
+		"timeHour": 16,
+		"timeMinutes": 11
+	},
+	{
+		"title": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",
+		"artist": "Rudimental",
+		"timeHour": 16,
+		"timeMinutes": 14
+	},
+	{
+		"title": "Breakfast At Tiffany's",
+		"artist": "Deep Blue Something",
+		"timeHour": 16,
+		"timeMinutes": 22
+	},
+	{
+		"title": "I Got You",
+		"artist": "Split Enz",
+		"timeHour": 16,
+		"timeMinutes": 36
+	},
+	{
+		"title": "Somebody Told Me",
+		"artist": "The Killers",
+		"timeHour": 16,
+		"timeMinutes": 39
+	},
+	{
+		"title": "Prologue",
+		"artist": "Johnny Green & His Orchestra",
+		"timeHour": 16,
+		"timeMinutes": 48
+	},
+	{
+		"title": "Lean on Me",
+		"artist": "Club Nouveau",
+		"timeHour": 16,
+		"timeMinutes": 53
+	},
+	{
+		"title": "Galway Girl",
+		"artist": "Ed Sheeran",
+		"timeHour": 16,
+		"timeMinutes": 57
+	},
+	{
+		"title": "Centerfold",
+		"artist": "J. Geils Band",
+		"timeHour": 17,
+		"timeMinutes": 11
+	},
+	{
+		"title": "Joyride",
+		"artist": "Roxette",
+		"timeHour": 17,
+		"timeMinutes": 14
+	},
+	{
+		"title": "Kiss Somebody",
+		"artist": "Morgan Evans",
+		"timeHour": 17,
+		"timeMinutes": 22
+	},
+	{
+		"title": "Say You Will",
+		"artist": "Foreigner",
+		"timeHour": 17,
+		"timeMinutes": 36
+	},
+	{
+		"title": "Love Someone",
+		"artist": "Lukas Graham",
+		"timeHour": 17,
+		"timeMinutes": 40
+	},
+	{
+		"title": "Smells Like Teen Spirit",
+		"artist": "Nirvana",
+		"timeHour": 17,
+		"timeMinutes": 47
+	},
+	{
+		"title": "Footloose",
+		"artist": "Doveman",
+		"timeHour": 17,
+		"timeMinutes": 52
+	},
+	{
+		"title": "Blame It on Me",
+		"artist": "George Ezra",
+		"timeHour": 17,
+		"timeMinutes": 56
+	},
+	{
+		"title": "Baby Can't Drive",
+		"artist": "Slash, Alice Cooper, & Nicole Scherzinger",
+		"timeHour": 18,
+		"timeMinutes": 9
+	},
+	{
+		"title": "St. Elmos Fire (Man in Motion)",
+		"artist": "John Parr",
+		"timeHour": 18,
+		"timeMinutes": 14
+	},
+	{
+		"title": "Walk Me Home",
+		"artist": "P!nk",
+		"timeHour": 18,
+		"timeMinutes": 34
+	},
+	{
+		"title": "(Your Love Keeps Lifting Me) Higher and Higher",
+		"artist": "Jimmy Barnes",
+		"timeHour": 18,
+		"timeMinutes": 53
+	},
+	{
+		"title": "Song On Fire",
+		"artist": "Nickelback",
+		"timeHour": 18,
+		"timeMinutes": 56
+	},
+	{
+		"title": "Baby Can't Drive",
+		"artist": "Slash, Alice Cooper, & Nicole Scherzinger",
+		"timeHour": 19,
+		"timeMinutes": 9
+	},
+	{
+		"title": "Livin' On A Prayer",
+		"artist": "Bon Jovi",
+		"timeHour": 19,
+		"timeMinutes": 16
+	},
+	{
+		"title": "Promises",
+		"artist": "Calvin Harris, Sam Smith",
+		"timeHour": 19,
+		"timeMinutes": 38
+	},
+	{
+		"title": "Jessie's Girl",
+		"artist": "Rick Springfield",
+		"timeHour": 19,
+		"timeMinutes": 46
+	},
+	{
+		"title": "Disappear",
+		"artist": "INXS",
+		"timeHour": 19,
+		"timeMinutes": 52
+	},
+	{
+		"title": "Wasted Time",
+		"artist": "Keith Urban",
+		"timeHour": 19,
+		"timeMinutes": 56
+	},
+	{
+		"title": "Baby Can't Drive",
+		"artist": "Slash, Alice Cooper, & Nicole Scherzinger",
+		"timeHour": 20,
+		"timeMinutes": 3
+	},
+	{
+		"title": "I Don't Want A Lover",
+		"artist": "Texas",
+		"timeHour": 20,
+		"timeMinutes": 9
+	}
+]

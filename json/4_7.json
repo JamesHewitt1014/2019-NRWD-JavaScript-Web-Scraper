@@ -1,0 +1,261 @@
+[
+	"PROGRAM INIT 13:14",
+	{
+		"title": "CRAZY.",
+		"artist": "Seal",
+		"timeHour": 13,
+		"timeMinutes": 15
+	},
+	{
+		"title": "Rain",
+		"artist": "THE DROUGHTBREAKERS",
+		"timeHour": 13,
+		"timeMinutes": 16
+	},
+	{
+		"title": "THE LOOK",
+		"artist": "Roxette",
+		"timeHour": 13,
+		"timeMinutes": 20
+	},
+	{
+		"title": "PHOTOGRAPH",
+		"artist": "Nickelback",
+		"timeHour": 13,
+		"timeMinutes": 24
+	},
+	{
+		"title": "CRAZY LITTLE THING CALLED LOVE",
+		"artist": "Queen",
+		"timeHour": 13,
+		"timeMinutes": 28
+	},
+	{
+		"title": "WHATEVER YOU WANT",
+		"artist": "Pink",
+		"timeHour": 13,
+		"timeMinutes": 31
+	},
+	{
+		"title": "I NEED A LOVER",
+		"artist": "John Mellencamp",
+		"timeHour": 13,
+		"timeMinutes": 35
+	},
+	{
+		"title": "THE REASON",
+		"artist": "Hoobastank",
+		"timeHour": 13,
+		"timeMinutes": 38
+	},
+	{
+		"title": "INVISIBLE TOUCH",
+		"artist": "Genesis",
+		"timeHour": 13,
+		"timeMinutes": 48
+	},
+	{
+		"title": "On My Way (MIX 106.3 NEW MUSIC INTRO)",
+		"artist": "Sheppard",
+		"timeHour": 13,
+		"timeMinutes": 51
+	},
+	{
+		"title": "IT'S THE END OF THE WORLD AS WE KNOW IT",
+		"artist": "R.E.M.",
+		"timeHour": 14,
+		"timeMinutes": 5
+	},
+	{
+		"title": "THESE DAYS",
+		"artist": "RUDIMENTAL, JESS GLYNNE",
+		"timeHour": 14,
+		"timeMinutes": 8
+	},
+	{
+		"title": "3AM",
+		"artist": "MATCHBOX 20",
+		"timeHour": 14,
+		"timeMinutes": 12
+	},
+	{
+		"title": "I GUESS THATS WHY THEY CALL IT THE BLUES",
+		"artist": "Elton John",
+		"timeHour": 14,
+		"timeMinutes": 16
+	},
+	{
+		"title": "HOT N COLD",
+		"artist": "Katy Perry",
+		"timeHour": 14,
+		"timeMinutes": 21
+	},
+	{
+		"title": "HEAVEN",
+		"artist": "Bryan Adams",
+		"timeHour": 14,
+		"timeMinutes": 24
+	},
+	{
+		"title": "7 Minutes (NEW MUSIC INTRO MIX106.3)",
+		"artist": "Dean Lewis",
+		"timeHour": 14,
+		"timeMinutes": 28
+	},
+	{
+		"title": "KEEP THE FAITH",
+		"artist": "Bon Jovi",
+		"timeHour": 14,
+		"timeMinutes": 31
+	},
+	{
+		"title": "LITTLE RED CORVETTE",
+		"artist": "Prince",
+		"timeHour": 14,
+		"timeMinutes": 42
+	},
+	{
+		"title": "SKIN",
+		"artist": "Rag'n'Bone Man",
+		"timeHour": 14,
+		"timeMinutes": 46
+	},
+	{
+		"title": "SHOULD'VE KNOWN BETTER",
+		"artist": "Richard Marx",
+		"timeHour": 14,
+		"timeMinutes": 50
+	},
+	{
+		"title": "RELAX",
+		"artist": "FRANKIE GOES TO HOLLY...",
+		"timeHour": 15,
+		"timeMinutes": 7
+	},
+	{
+		"title": "SAVE TONIGHT",
+		"artist": "EAGLE,EYE CHERRY",
+		"timeHour": 15,
+		"timeMinutes": 11
+	},
+	{
+		"title": "WAY DOWN WE GO",
+		"artist": "Kaleo",
+		"timeHour": 15,
+		"timeMinutes": 19
+	},
+	{
+		"title": "THAT'S WHEN I THINK OF YOU",
+		"artist": "1927",
+		"timeHour": 15,
+		"timeMinutes": 34
+	},
+	{
+		"title": "Promises",
+		"artist": "CALVIN HARRIS, SAM SMITH",
+		"timeHour": 15,
+		"timeMinutes": 38
+	},
+	{
+		"title": "BEAST OF BURDEN",
+		"artist": "Bette Midler",
+		"timeHour": 15,
+		"timeMinutes": 50
+	},
+	{
+		"title": "I'M A BELIEVER",
+		"artist": "Smash Mouth",
+		"timeHour": 15,
+		"timeMinutes": 53
+	},
+	{
+		"title": "NOTHIN' BUT A GOOD TIME",
+		"artist": "Poison",
+		"timeHour": 16,
+		"timeMinutes": 8
+	},
+	{
+		"title": "A MILLION DREAMS",
+		"artist": "Pink",
+		"timeHour": 16,
+		"timeMinutes": 12
+	},
+	{
+		"title": "ONE WEEK",
+		"artist": "Barenaked Ladies",
+		"timeHour": 16,
+		"timeMinutes": 22
+	},
+	{
+		"title": "COOL WORLD",
+		"artist": "Mondo Rock",
+		"timeHour": 16,
+		"timeMinutes": 37
+	},
+	{
+		"title": "I WISH I WAS A PUNK ROCKER (WITH FLO...",
+		"artist": "Sandi Thom",
+		"timeHour": 16,
+		"timeMinutes": 42
+	},
+	{
+		"title": "BEDS ARE BURNING",
+		"artist": "Midnight Oil",
+		"timeHour": 16,
+		"timeMinutes": 50
+	},
+	{
+		"title": "Hold My Girl (NEW MUSIC INTRO MIX106.3)",
+		"artist": "George Ezra",
+		"timeHour": 16,
+		"timeMinutes": 54
+	},
+	{
+		"title": "WHAT I LIKE ABOUT YOU",
+		"artist": "Romantics",
+		"timeHour": 17,
+		"timeMinutes": 11
+	},
+	{
+		"title": "BREAK MY STRIDE",
+		"artist": "Unique II",
+		"timeHour": 17,
+		"timeMinutes": 14
+	},
+	{
+		"title": "SONG ON FIRE",
+		"artist": "Nickelback",
+		"timeHour": 17,
+		"timeMinutes": 21
+	},
+	{
+		"title": "BROKEN WINGS",
+		"artist": "Mr. Mister",
+		"timeHour": 17,
+		"timeMinutes": 37
+	},
+	{
+		"title": "THE MIDDLE",
+		"artist": "Jimmy Eat World",
+		"timeHour": 17,
+		"timeMinutes": 39
+	},
+	{
+		"title": "1999",
+		"artist": "Prince",
+		"timeHour": 17,
+		"timeMinutes": 50
+	},
+	{
+		"title": "Shallow",
+		"artist": "Lady Gaga & Bradley Cooper",
+		"timeHour": 17,
+		"timeMinutes": 53
+	},
+	{
+		"title": "YOU OUGHTA KNOW",
+		"artist": "Alanis Morissette",
+		"timeHour": 21,
+		"timeMinutes": 24
+	}
+]

@@ -1,0 +1,543 @@
+[
+	"PROGRAM INIT 10:26",
+	{
+		"title": "Love Someone",
+		"artist": "Lukas Graham",
+		"timeHour": 10,
+		"timeMinutes": 27
+	},
+	{
+		"title": "RAISE YOUR GLASS",
+		"artist": "Pink",
+		"timeHour": 10,
+		"timeMinutes": 32
+	},
+	{
+		"title": "COLD AS ICE",
+		"artist": "Foreigner",
+		"timeHour": 10,
+		"timeMinutes": 36
+	},
+	{
+		"title": "HERE WITHOUT YOU",
+		"artist": "3 Doors Down",
+		"timeHour": 10,
+		"timeMinutes": 39
+	},
+	{
+		"title": "HUNGRY EYES",
+		"artist": "Eric Carmen",
+		"timeHour": 10,
+		"timeMinutes": 50
+	},
+	{
+		"title": "Body Talks (MIX 106.3 NEW MUSIC INTRO)",
+		"artist": "The Struts",
+		"timeHour": 10,
+		"timeMinutes": 54
+	},
+	{
+		"title": "AS THE DAYS GO BY",
+		"artist": "Daryl Braithwaite",
+		"timeHour": 11,
+		"timeMinutes": 8
+	},
+	{
+		"title": "THESE DAYS",
+		"artist": "RUDIMENTAL, JESS GLYNNE",
+		"timeHour": 11,
+		"timeMinutes": 12
+	},
+	{
+		"title": "LIGHTNING CRASHES",
+		"artist": "Live",
+		"timeHour": 11,
+		"timeMinutes": 16
+	},
+	{
+		"title": "WHAT IS LOVE",
+		"artist": "Howard Jones",
+		"timeHour": 11,
+		"timeMinutes": 21
+	},
+	{
+		"title": "WILDEST DREAMS",
+		"artist": "Taylor Swift",
+		"timeHour": 11,
+		"timeMinutes": 24
+	},
+	{
+		"title": "AND WE DANCED",
+		"artist": "Hooters",
+		"timeHour": 11,
+		"timeMinutes": 28
+	},
+	{
+		"title": "Before I Go (MIX 106.3 NEW MUSIC INTRO)",
+		"artist": "Guy Sebastian",
+		"timeHour": 11,
+		"timeMinutes": 31
+	},
+	{
+		"title": "JUST A GIRL",
+		"artist": "No Doubt",
+		"timeHour": 11,
+		"timeMinutes": 35
+	},
+	{
+		"title": "I WANT TO BREAK FREE",
+		"artist": "Queen",
+		"timeHour": 11,
+		"timeMinutes": 46
+	},
+	{
+		"title": "Shotgun",
+		"artist": "George Ezra",
+		"timeHour": 11,
+		"timeMinutes": 48
+	},
+	{
+		"title": "WALKING ON SUNSHINE",
+		"artist": "KATRINA AND THE WAVES",
+		"timeHour": 11,
+		"timeMinutes": 52
+	},
+	{
+		"title": "SAY YOU WON'T LET GO",
+		"artist": "James Arthur",
+		"timeHour": 12,
+		"timeMinutes": 17
+	},
+	{
+		"title": "THUNDERSTRUCK",
+		"artist": "AC/DC",
+		"timeHour": 12,
+		"timeMinutes": 20
+	},
+	{
+		"title": "WHAT DOESN'T KILL YOU",
+		"artist": "Kelly Clarkson",
+		"timeHour": 12,
+		"timeMinutes": 25
+	},
+	{
+		"title": "WHO CAN IT BE NOW",
+		"artist": "Men at Work",
+		"timeHour": 12,
+		"timeMinutes": 29
+	},
+	{
+		"title": "HEALING HANDS",
+		"artist": "Conrad Sewell",
+		"timeHour": 12,
+		"timeMinutes": 32
+	},
+	{
+		"title": "LIFE IN THE FAST LANE",
+		"artist": "Eagles",
+		"timeHour": 12,
+		"timeMinutes": 43
+	},
+	{
+		"title": "STAY WITH ME",
+		"artist": "Sam Smith",
+		"timeHour": 12,
+		"timeMinutes": 47
+	},
+	{
+		"title": "TUCKERS DAUGHTER",
+		"artist": "Ian Moss",
+		"timeHour": 12,
+		"timeMinutes": 50
+	},
+	{
+		"title": "POUR SOME SUGAR ON ME",
+		"artist": "DEF LEPPARD",
+		"timeHour": 13,
+		"timeMinutes": 7
+	},
+	{
+		"title": "A MILLION DREAMS",
+		"artist": "Pink",
+		"timeHour": 13,
+		"timeMinutes": 11
+	},
+	{
+		"title": "HIGHER AND HIGHER",
+		"artist": "Jimmy Barnes",
+		"timeHour": 13,
+		"timeMinutes": 15
+	},
+	{
+		"title": "TAINTED LOVE",
+		"artist": "Soft Cell",
+		"timeHour": 13,
+		"timeMinutes": 18
+	},
+	{
+		"title": "HARDER TO BREATHE",
+		"artist": "Maroon 5",
+		"timeHour": 13,
+		"timeMinutes": 21
+	},
+	{
+		"title": "DON'T YOU FORGET ABOUT ME",
+		"artist": "Simple Minds",
+		"timeHour": 13,
+		"timeMinutes": 24
+	},
+	{
+		"title": "7 Minutes (NEW MUSIC INTRO MIX106.3)",
+		"artist": "Dean Lewis",
+		"timeHour": 13,
+		"timeMinutes": 28
+	},
+	{
+		"title": "CREAM",
+		"artist": "Prince",
+		"timeHour": 13,
+		"timeMinutes": 32
+	},
+	{
+		"title": "LOVE IS A BATTLEFIELD",
+		"artist": "Pat Benatar",
+		"timeHour": 13,
+		"timeMinutes": 43
+	},
+	{
+		"title": "SKIN",
+		"artist": "Rag'n'Bone Man",
+		"timeHour": 13,
+		"timeMinutes": 47
+	},
+	{
+		"title": "DON'T LEAVE ME THIS WAY",
+		"artist": "Communards",
+		"timeHour": 13,
+		"timeMinutes": 50
+	},
+	{
+		"title": "I GUESS THATS WHY THEY CALL IT THE BLUES",
+		"artist": "Elton John",
+		"timeHour": 14,
+		"timeMinutes": 6
+	},
+	{
+		"title": "SOMEBODY'S CRYING",
+		"artist": "Chris Isaak",
+		"timeHour": 14,
+		"timeMinutes": 11
+	},
+	{
+		"title": "EXES & OH'S",
+		"artist": "Elle King",
+		"timeHour": 14,
+		"timeMinutes": 14
+	},
+	{
+		"title": "KYRIE",
+		"artist": "MR MISTER",
+		"timeHour": 14,
+		"timeMinutes": 17
+	},
+	{
+		"title": "FEEL",
+		"artist": "Robbie Williams",
+		"timeHour": 14,
+		"timeMinutes": 21
+	},
+	{
+		"title": "DANCING IN THE DARK",
+		"artist": "Bruce Springsteen",
+		"timeHour": 14,
+		"timeMinutes": 25
+	},
+	{
+		"title": "Shallow",
+		"artist": "Lady Gaga & Bradley Cooper",
+		"timeHour": 14,
+		"timeMinutes": 29
+	},
+	{
+		"title": "KNOCK ON WOOD",
+		"artist": "Amii Stewart",
+		"timeHour": 14,
+		"timeMinutes": 32
+	},
+	{
+		"title": "IT'S MY LIFE",
+		"artist": "Bon Jovi",
+		"timeHour": 14,
+		"timeMinutes": 42
+	},
+	{
+		"title": "YOU CAN CALL ME AL",
+		"artist": "Paul Simon",
+		"timeHour": 14,
+		"timeMinutes": 46
+	},
+	{
+		"title": "HAPPIER (MIX 106.3 NEW MUSIC INTRO)",
+		"artist": "MARSHMELLO FT. BASTILLE",
+		"timeHour": 14,
+		"timeMinutes": 51
+	},
+	{
+		"title": "MONY MONY",
+		"artist": "Billy Idol",
+		"timeHour": 15,
+		"timeMinutes": 7
+	},
+	{
+		"title": "SHAKE IT OFF",
+		"artist": "Taylor Swift",
+		"timeHour": 15,
+		"timeMinutes": 12
+	},
+	{
+		"title": "OWNER OF A LONELY HEART",
+		"artist": "Yes",
+		"timeHour": 15,
+		"timeMinutes": 19
+	},
+	{
+		"title": "100% PURE LOVE",
+		"artist": "Crystal Waters",
+		"timeHour": 15,
+		"timeMinutes": 32
+	},
+	{
+		"title": "OLD TIME ROCK AND ROLL",
+		"artist": "Bob Seger",
+		"timeHour": 15,
+		"timeMinutes": 35
+	},
+	{
+		"title": "I'M OUTTA LOVE",
+		"artist": "Anastacia",
+		"timeHour": 15,
+		"timeMinutes": 47
+	},
+	{
+		"title": "LIKE WOW WIPEOUT",
+		"artist": "Hoodoo Gurus",
+		"timeHour": 15,
+		"timeMinutes": 50
+	},
+	{
+		"title": "BOOM! SHAKE THE ROOM",
+		"artist": "Jazzy Jeff & The Fresh Prince",
+		"timeHour": 15,
+		"timeMinutes": 53
+	},
+	{
+		"title": "SOME LIKE IT HOT",
+		"artist": "POWER STATION",
+		"timeHour": 16,
+		"timeMinutes": 11
+	},
+	{
+		"title": "SOME NIGHTS",
+		"artist": "Fun",
+		"timeHour": 16,
+		"timeMinutes": 15
+	},
+	{
+		"title": "YOU MIGHT THINK",
+		"artist": "Cars",
+		"timeHour": 16,
+		"timeMinutes": 22
+	},
+	{
+		"title": "VOGUE",
+		"artist": "Madonna",
+		"timeHour": 16,
+		"timeMinutes": 35
+	},
+	{
+		"title": "SINGLE LADIES",
+		"artist": "Beyonce",
+		"timeHour": 16,
+		"timeMinutes": 52
+	},
+	{
+		"title": "SLEDGEHAMMER",
+		"artist": "Peter Gabriel",
+		"timeHour": 17,
+		"timeMinutes": 8
+	},
+	{
+		"title": "CAKE BY THE OCEAN",
+		"artist": "DNCE",
+		"timeHour": 17,
+		"timeMinutes": 13
+	},
+	{
+		"title": "BLUE JEAN",
+		"artist": "David Bowie",
+		"timeHour": 17,
+		"timeMinutes": 21
+	},
+	{
+		"title": "EVERYBODY (BACKSTREET'S BACK)",
+		"artist": "Backstreet Boys",
+		"timeHour": 17,
+		"timeMinutes": 32
+	},
+	{
+		"title": "Y.M.C.A.",
+		"artist": "Village People",
+		"timeHour": 17,
+		"timeMinutes": 36
+	},
+	{
+		"title": "ON MY MIND",
+		"artist": "Powderfinger",
+		"timeHour": 17,
+		"timeMinutes": 47
+	},
+	{
+		"title": "YOU SPIN ME ROUND (LIKE A RECORD)",
+		"artist": "Dead Or Alive",
+		"timeHour": 17,
+		"timeMinutes": 50
+	},
+	{
+		"title": "UNSKINNY BOP",
+		"artist": "Poison",
+		"timeHour": 18,
+		"timeMinutes": 10
+	},
+	{
+		"title": "UPTOWN FUNK",
+		"artist": "MARK RONSON/BRUNO MARS",
+		"timeHour": 18,
+		"timeMinutes": 30
+	},
+	{
+		"title": "LOOK OF LOVE",
+		"artist": "ABC",
+		"timeHour": 18,
+		"timeMinutes": 56
+	},
+	{
+		"title": "PRETTY FLY (FOR A WHITE GUY)",
+		"artist": "Offspring",
+		"timeHour": 18,
+		"timeMinutes": 59
+	},
+	{
+		"title": "ALWAYS ON MY MIND",
+		"artist": "Pet Shop Boys",
+		"timeHour": 19,
+		"timeMinutes": 12
+	},
+	{
+		"title": "SHORT SKIRT/LONG JACKET",
+		"artist": "Cake",
+		"timeHour": 19,
+		"timeMinutes": 32
+	},
+	{
+		"title": "CENTERFOLD",
+		"artist": "J GEILS BAND",
+		"timeHour": 19,
+		"timeMinutes": 52
+	},
+	{
+		"title": "SHOOP",
+		"artist": "SALT N PEPA",
+		"timeHour": 19,
+		"timeMinutes": 56
+	},
+	{
+		"title": "TAKE ON ME",
+		"artist": "AHA",
+		"timeHour": 20,
+		"timeMinutes": 7
+	},
+	{
+		"title": "SING",
+		"artist": "Ed Sheeran",
+		"timeHour": 20,
+		"timeMinutes": 11
+	},
+	{
+		"title": "STANDING ON THE OUTSIDE",
+		"artist": "Cold Chisel",
+		"timeHour": 20,
+		"timeMinutes": 14
+	},
+	{
+		"title": "EVERYBODY'S FREE",
+		"artist": "Rozalla",
+		"timeHour": 20,
+		"timeMinutes": 17
+	},
+	{
+		"title": "SHAKE YOUR BOOTY",
+		"artist": "KC & THE SUNSHINE BAND",
+		"timeHour": 20,
+		"timeMinutes": 21
+	},
+	{
+		"title": "I JUST WANNA LIVE",
+		"artist": "Good Charlotte",
+		"timeHour": 20,
+		"timeMinutes": 24
+	},
+	{
+		"title": "RIDE ON TIME",
+		"artist": "Black Box",
+		"timeHour": 20,
+		"timeMinutes": 31
+	},
+	{
+		"title": "MACARENA",
+		"artist": "Los Del Rio",
+		"timeHour": 20,
+		"timeMinutes": 35
+	},
+	{
+		"title": "ROCK THE CASBAH",
+		"artist": "The Clash",
+		"timeHour": 20,
+		"timeMinutes": 38
+	},
+	{
+		"title": "GET LUCKY",
+		"artist": "Daft Punk",
+		"timeHour": 20,
+		"timeMinutes": 42
+	},
+	{
+		"title": "POP MUZIK",
+		"artist": "M",
+		"timeHour": 20,
+		"timeMinutes": 46
+	},
+	{
+		"title": "TEENAGE DIRTBAG",
+		"artist": "Wheatus",
+		"timeHour": 20,
+		"timeMinutes": 49
+	},
+	{
+		"title": "I THINK WE'RE ALONE NOW",
+		"artist": "Tiffany",
+		"timeHour": 21,
+		"timeMinutes": 2
+	},
+	{
+		"title": "SHAKE IT OFF",
+		"artist": "Taylor Swift",
+		"timeHour": 21,
+		"timeMinutes": 6
+	},
+	{
+		"title": "HEART OF GLASS",
+		"artist": "Blondie",
+		"timeHour": 21,
+		"timeMinutes": 10
+	}
+]

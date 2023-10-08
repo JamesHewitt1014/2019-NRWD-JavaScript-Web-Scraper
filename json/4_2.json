@@ -1,0 +1,393 @@
+[
+	"PROGRAM INIT 10:54",
+	{
+		"title": "JUST DANCE",
+		"artist": "Lady Gaga",
+		"timeHour": 10,
+		"timeMinutes": 55
+	},
+	{
+		"title": "SOLID ROCK",
+		"artist": "Goanna",
+		"timeHour": 11,
+		"timeMinutes": 6
+	},
+	{
+		"title": "I WANT YOU",
+		"artist": "Savage Garden",
+		"timeHour": 11,
+		"timeMinutes": 11
+	},
+	{
+		"title": "WASTED TIME",
+		"artist": "Keith Urban",
+		"timeHour": 11,
+		"timeMinutes": 14
+	},
+	{
+		"title": "YOU CAN LEAVE YOUR HAT ON",
+		"artist": "Joe Cocker",
+		"timeHour": 11,
+		"timeMinutes": 18
+	},
+	{
+		"title": "HOT N COLD",
+		"artist": "Katy Perry",
+		"timeHour": 11,
+		"timeMinutes": 22
+	},
+	{
+		"title": "SMALL TOWN",
+		"artist": "John Mellencamp",
+		"timeHour": 11,
+		"timeMinutes": 26
+	},
+	{
+		"title": "Love Someone",
+		"artist": "Lukas Graham",
+		"timeHour": 11,
+		"timeMinutes": 29
+	},
+	{
+		"title": "EVIL WOMAN",
+		"artist": "Electric Light Orchestra",
+		"timeHour": 11,
+		"timeMinutes": 33
+	},
+	{
+		"title": "BLANK SPACE",
+		"artist": "Taylor Swift",
+		"timeHour": 11,
+		"timeMinutes": 37
+	},
+	{
+		"title": "WALK OF LIFE",
+		"artist": "Dire Straits",
+		"timeHour": 11,
+		"timeMinutes": 47
+	},
+	{
+		"title": "Hold My Girl (NEW MUSIC INTRO MIX106.3)",
+		"artist": "George Ezra",
+		"timeHour": 11,
+		"timeMinutes": 50
+	},
+	{
+		"title": "Better",
+		"artist": "Screaming Jets",
+		"timeHour": 11,
+		"timeMinutes": 54
+	},
+	{
+		"title": "FEEL IT STILL",
+		"artist": "Portugal The Man",
+		"timeHour": 12,
+		"timeMinutes": 20
+	},
+	{
+		"title": "WHAT I LIKE ABOUT YOU",
+		"artist": "Romantics",
+		"timeHour": 12,
+		"timeMinutes": 23
+	},
+	{
+		"title": "GRENADE",
+		"artist": "Bruno Mars",
+		"timeHour": 12,
+		"timeMinutes": 26
+	},
+	{
+		"title": "TWO STRONG HEARTS",
+		"artist": "John Farnham",
+		"timeHour": 12,
+		"timeMinutes": 30
+	},
+	{
+		"title": "Body Talks (MIX 106.3 NEW MUSIC INTRO)",
+		"artist": "The Struts",
+		"timeHour": 12,
+		"timeMinutes": 33
+	},
+	{
+		"title": "DON'T SPEAK",
+		"artist": "No Doubt",
+		"timeHour": 12,
+		"timeMinutes": 36
+	},
+	{
+		"title": "YOU MAY BE RIGHT",
+		"artist": "Billy Joel",
+		"timeHour": 12,
+		"timeMinutes": 46
+	},
+	{
+		"title": "",
+		"artist": "Loading...",
+		"timeHour": 12,
+		"timeMinutes": 48
+	},
+	{
+		"title": "YOU MAY BE RIGHT",
+		"artist": "Billy Joel",
+		"timeHour": 12,
+		"timeMinutes": 49
+	},
+	{
+		"title": "WATER UNDER THE BRIDGE",
+		"artist": "Adele",
+		"timeHour": 12,
+		"timeMinutes": 50
+	},
+	{
+		"title": "BEDS ARE BURNING",
+		"artist": "Midnight Oil",
+		"timeHour": 12,
+		"timeMinutes": 54
+	},
+	{
+		"title": "CRAZY LITTLE THING CALLED LOVE",
+		"artist": "Queen",
+		"timeHour": 13,
+		"timeMinutes": 7
+	},
+	{
+		"title": "CAN'T HELP FALLING IN LOVE",
+		"artist": "UB40",
+		"timeHour": 13,
+		"timeMinutes": 9
+	},
+	{
+		"title": "WAY DOWN WE GO",
+		"artist": "Kaleo",
+		"timeHour": 13,
+		"timeMinutes": 12
+	},
+	{
+		"title": "YOU CAN CALL ME AL",
+		"artist": "Paul Simon",
+		"timeHour": 13,
+		"timeMinutes": 15
+	},
+	{
+		"title": "BEHIND THESE HAZEL EYES",
+		"artist": "Kelly Clarkson",
+		"timeHour": 13,
+		"timeMinutes": 20
+	},
+	{
+		"title": "ROSANNA",
+		"artist": "Toto",
+		"timeHour": 13,
+		"timeMinutes": 23
+	},
+	{
+		"title": "A MILLION DREAMS",
+		"artist": "Pink",
+		"timeHour": 13,
+		"timeMinutes": 27
+	},
+	{
+		"title": "BAD CASE OF LOVING YOU (DOCTOR DOCTOR)",
+		"artist": "Robert Palmer",
+		"timeHour": 13,
+		"timeMinutes": 31
+	},
+	{
+		"title": "I DON'T FEEL LIKE DANCING",
+		"artist": "Scissor Sisters",
+		"timeHour": 13,
+		"timeMinutes": 39
+	},
+	{
+		"title": "FAST CAR",
+		"artist": "Tracy Chapman",
+		"timeHour": 13,
+		"timeMinutes": 43
+	},
+	{
+		"title": "My Wave (MIX106.3 NEW MUSIC INTRO)",
+		"artist": "Keith Urban",
+		"timeHour": 13,
+		"timeMinutes": 48
+	},
+	{
+		"title": "IN THESE ARMS",
+		"artist": "Bon Jovi",
+		"timeHour": 13,
+		"timeMinutes": 51
+	},
+	{
+		"title": "CHAINED TO THE WHEEL",
+		"artist": "Black Sorrows",
+		"timeHour": 14,
+		"timeMinutes": 7
+	},
+	{
+		"title": "Shallow",
+		"artist": "Lady Gaga & Bradley Cooper",
+		"timeHour": 14,
+		"timeMinutes": 11
+	},
+	{
+		"title": "JOYRIDE",
+		"artist": "Roxette",
+		"timeHour": 14,
+		"timeMinutes": 15
+	},
+	{
+		"title": "MESSAGE TO MY GIRL",
+		"artist": "Split Enz",
+		"timeHour": 14,
+		"timeMinutes": 19
+	},
+	{
+		"title": "I'M YOURS",
+		"artist": "Jason Mraz",
+		"timeHour": 14,
+		"timeMinutes": 23
+	},
+	{
+		"title": "WHY CAN'T THIS BE LOVE?",
+		"artist": "Van Halen",
+		"timeHour": 14,
+		"timeMinutes": 26
+	},
+	{
+		"title": "Before I Go (MIX 106.3 NEW MUSIC INTRO)",
+		"artist": "Guy Sebastian",
+		"timeHour": 14,
+		"timeMinutes": 29
+	},
+	{
+		"title": "LET ME ENTERTAIN YOU",
+		"artist": "Robbie Williams",
+		"timeHour": 14,
+		"timeMinutes": 33
+	},
+	{
+		"title": "BE GOOD JOHNNY",
+		"artist": "Men at Work",
+		"timeHour": 14,
+		"timeMinutes": 41
+	},
+	{
+		"title": "Fresh Eyes",
+		"artist": "Andy Grammer",
+		"timeHour": 14,
+		"timeMinutes": 45
+	},
+	{
+		"title": "SUMMER OF '69",
+		"artist": "Bryan Adams",
+		"timeHour": 14,
+		"timeMinutes": 48
+	},
+	{
+		"title": "LOCKED OUT OF HEAVEN",
+		"artist": "Bruno Mars",
+		"timeHour": 14,
+		"timeMinutes": 52
+	},
+	{
+		"title": "CENTERFOLD",
+		"artist": "J GEILS BAND",
+		"timeHour": 15,
+		"timeMinutes": 7
+	},
+	{
+		"title": "ALL THAT SHE WANTS",
+		"artist": "Ace Of Base",
+		"timeHour": 15,
+		"timeMinutes": 11
+	},
+	{
+		"title": "HUMAN",
+		"artist": "Rag'n'Bone Man",
+		"timeHour": 15,
+		"timeMinutes": 18
+	},
+	{
+		"title": "SEVEN WONDERS",
+		"artist": "Fleetwood Mac",
+		"timeHour": 15,
+		"timeMinutes": 31
+	},
+	{
+		"title": "BIG YELLOW TAXI",
+		"artist": "COUNTING CROWES AND VANESSA CA",
+		"timeHour": 15,
+		"timeMinutes": 35
+	},
+	{
+		"title": "NO SECRETS",
+		"artist": "The Angels",
+		"timeHour": 15,
+		"timeMinutes": 49
+	},
+	{
+		"title": "Promises",
+		"artist": "CALVIN HARRIS, SAM SMITH",
+		"timeHour": 15,
+		"timeMinutes": 53
+	},
+	{
+		"title": "AND WE DANCED",
+		"artist": "Hooters",
+		"timeHour": 16,
+		"timeMinutes": 8
+	},
+	{
+		"title": "BEAUTIFUL TRAUMA",
+		"artist": "Pink",
+		"timeHour": 16,
+		"timeMinutes": 12
+	},
+	{
+		"title": "CRAZY.",
+		"artist": "Seal",
+		"timeHour": 16,
+		"timeMinutes": 19
+	},
+	{
+		"title": "PRIVATE EYES",
+		"artist": "HALL AND OATES",
+		"timeHour": 16,
+		"timeMinutes": 33
+	},
+	{
+		"title": "OPEN YOUR HEART",
+		"artist": "Madonna",
+		"timeHour": 16,
+		"timeMinutes": 46
+	},
+	{
+		"title": "On My Way (MIX 106.3 NEW MUSIC INTRO)",
+		"artist": "Sheppard",
+		"timeHour": 16,
+		"timeMinutes": 50
+	},
+	{
+		"title": "THE HORSES",
+		"artist": "Daryl Braithwaite",
+		"timeHour": 16,
+		"timeMinutes": 53
+	},
+	{
+		"title": "FLASHDANCE",
+		"artist": "Irene Cara",
+		"timeHour": 17,
+		"timeMinutes": 8
+	},
+	{
+		"title": "BLAZE OF GLORY",
+		"artist": "Jon Bon Jovi",
+		"timeHour": 17,
+		"timeMinutes": 12
+	},
+	{
+		"title": "Love Someone",
+		"artist": "Lukas Graham",
+		"timeHour": 17,
+		"timeMinutes": 20
+	}
+]

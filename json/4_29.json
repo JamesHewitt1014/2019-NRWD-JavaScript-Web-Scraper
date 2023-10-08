@@ -1,0 +1,501 @@
+[
+	"PROGRAM INIT 9:3",
+	{
+		"title": "TELL HER ABOUT IT",
+		"artist": "Billy Joel",
+		"timeHour": 9,
+		"timeMinutes": 4
+	},
+	{
+		"title": "ST ELMO'S FIRE",
+		"artist": "John Parr",
+		"timeHour": 9,
+		"timeMinutes": 8
+	},
+	{
+		"title": "Promises",
+		"artist": "CALVIN HARRIS, SAM SMITH",
+		"timeHour": 9,
+		"timeMinutes": 12
+	},
+	{
+		"title": "UNDER THE BRIDGE",
+		"artist": "RED HOT CHILI PEPPERS",
+		"timeHour": 9,
+		"timeMinutes": 16
+	},
+	{
+		"title": "I'M STILL STANDING",
+		"artist": "Elton John",
+		"timeHour": 9,
+		"timeMinutes": 20
+	},
+	{
+		"title": "ROAR",
+		"artist": "Katy Perry",
+		"timeHour": 9,
+		"timeMinutes": 23
+	},
+	{
+		"title": "THUNDERSTRUCK",
+		"artist": "AC/DC",
+		"timeHour": 9,
+		"timeMinutes": 27
+	},
+	{
+		"title": "My Wave (MIX106.3 NEW MUSIC INTRO)",
+		"artist": "Keith Urban",
+		"timeHour": 9,
+		"timeMinutes": 31
+	},
+	{
+		"title": "ANGELS",
+		"artist": "Robbie Williams",
+		"timeHour": 9,
+		"timeMinutes": 35
+	},
+	{
+		"title": "WHO CAN IT BE NOW",
+		"artist": "Men at Work",
+		"timeHour": 9,
+		"timeMinutes": 43
+	},
+	{
+		"title": "THERE'S NOTHING HOLDIN' ME BACK",
+		"artist": "Shawn Mendes",
+		"timeHour": 9,
+		"timeMinutes": 46
+	},
+	{
+		"title": "COPPERHEAD ROAD",
+		"artist": "STEVE EARLE",
+		"timeHour": 9,
+		"timeMinutes": 49
+	},
+	{
+		"title": "WAKE UP CALL",
+		"artist": "Maroon 5",
+		"timeHour": 9,
+		"timeMinutes": 54
+	},
+	{
+		"title": "THRILLER",
+		"artist": "Michael Jackson",
+		"timeHour": 10,
+		"timeMinutes": 6
+	},
+	{
+		"title": "NOVEMBER RAIN",
+		"artist": "GUNS'N'ROSES",
+		"timeHour": 10,
+		"timeMinutes": 10
+	},
+	{
+		"title": "GALWAY GIRL",
+		"artist": "Ed Sheeran",
+		"timeHour": 10,
+		"timeMinutes": 18
+	},
+	{
+		"title": "WALK OF LIFE",
+		"artist": "Dire Straits",
+		"timeHour": 10,
+		"timeMinutes": 21
+	},
+	{
+		"title": "CAN'T FIGHT THE MOONLIGHT",
+		"artist": "Leann Rimes",
+		"timeHour": 10,
+		"timeMinutes": 25
+	},
+	{
+		"title": "BOYS IN TOWN",
+		"artist": "Divinyls",
+		"timeHour": 10,
+		"timeMinutes": 28
+	},
+	{
+		"title": "Shallow",
+		"artist": "Lady Gaga & Bradley Cooper",
+		"timeHour": 10,
+		"timeMinutes": 31
+	},
+	{
+		"title": "MESSAGE IN A BOTTLE",
+		"artist": "Police",
+		"timeHour": 10,
+		"timeMinutes": 35
+	},
+	{
+		"title": "BEHIND THESE HAZEL EYES",
+		"artist": "Kelly Clarkson",
+		"timeHour": 10,
+		"timeMinutes": 43
+	},
+	{
+		"title": "RIDE THE NIGHT AWAY",
+		"artist": "Jimmy Barnes",
+		"timeHour": 10,
+		"timeMinutes": 46
+	},
+	{
+		"title": "Before I Go (MIX 106.3 NEW MUSIC INTRO)",
+		"artist": "Guy Sebastian",
+		"timeHour": 10,
+		"timeMinutes": 50
+	},
+	{
+		"title": "I CAN'T DANCE",
+		"artist": "Genesis",
+		"timeHour": 10,
+		"timeMinutes": 54
+	},
+	{
+		"title": "RUN TO YOU",
+		"artist": "Bryan Adams",
+		"timeHour": 11,
+		"timeMinutes": 6
+	},
+	{
+		"title": "A MILLION DREAMS",
+		"artist": "Pink",
+		"timeHour": 11,
+		"timeMinutes": 10
+	},
+	{
+		"title": "BREAKFAST AT TIFFANY'S",
+		"artist": "Deep Blue Something",
+		"timeHour": 11,
+		"timeMinutes": 14
+	},
+	{
+		"title": "RED RED WINE",
+		"artist": "UB40",
+		"timeHour": 11,
+		"timeMinutes": 18
+	},
+	{
+		"title": "LOCKED OUT OF HEAVEN",
+		"artist": "Bruno Mars",
+		"timeHour": 11,
+		"timeMinutes": 21
+	},
+	{
+		"title": "BABY I DON'T CARE",
+		"artist": "Transvision Vamp",
+		"timeHour": 11,
+		"timeMinutes": 25
+	},
+	{
+		"title": "Hold My Girl (NEW MUSIC INTRO MIX106.3)",
+		"artist": "George Ezra",
+		"timeHour": 11,
+		"timeMinutes": 29
+	},
+	{
+		"title": "I WANT YOU",
+		"artist": "Savage Garden",
+		"timeHour": 11,
+		"timeMinutes": 33
+	},
+	{
+		"title": "UPTOWN GIRL",
+		"artist": "Billy Joel",
+		"timeHour": 11,
+		"timeMinutes": 40
+	},
+	{
+		"title": "PARALLEL LINE",
+		"artist": "Keith Urban",
+		"timeHour": 11,
+		"timeMinutes": 43
+	},
+	{
+		"title": "ALL FIRED UP",
+		"artist": "Pat Benatar",
+		"timeHour": 11,
+		"timeMinutes": 47
+	},
+	{
+		"title": "PHOTOGRAPH",
+		"artist": "Nickelback",
+		"timeHour": 11,
+		"timeMinutes": 52
+	},
+	{
+		"title": "HEALING HANDS",
+		"artist": "Conrad Sewell",
+		"timeHour": 12,
+		"timeMinutes": 17
+	},
+	{
+		"title": "IN THESE ARMS",
+		"artist": "Bon Jovi",
+		"timeHour": 12,
+		"timeMinutes": 21
+	},
+	{
+		"title": "COME SAID THE BOY",
+		"artist": "Mondo Rock",
+		"timeHour": 12,
+		"timeMinutes": 26
+	},
+	{
+		"title": "I'M A BELIEVER",
+		"artist": "Smash Mouth",
+		"timeHour": 12,
+		"timeMinutes": 32
+	},
+	{
+		"title": "SUMMER RAIN",
+		"artist": "Belinda Carlisle",
+		"timeHour": 12,
+		"timeMinutes": 34
+	},
+	{
+		"title": "NEVER EVER (MIX 106.3 NEW MUSIC INTRO)",
+		"artist": "The Rubens",
+		"timeHour": 12,
+		"timeMinutes": 39
+	},
+	{
+		"title": "JUST A GIRL",
+		"artist": "No Doubt",
+		"timeHour": 12,
+		"timeMinutes": 42
+	},
+	{
+		"title": "AFRICA",
+		"artist": "Toto",
+		"timeHour": 12,
+		"timeMinutes": 45
+	},
+	{
+		"title": "EXES & OH'S",
+		"artist": "Elle King",
+		"timeHour": 12,
+		"timeMinutes": 55
+	},
+	{
+		"title": "POUR SOME SUGAR ON ME",
+		"artist": "DEF LEPPARD",
+		"timeHour": 13,
+		"timeMinutes": 7
+	},
+	{
+		"title": "LEAVE A LIGHT ON",
+		"artist": "Tom Walker",
+		"timeHour": 13,
+		"timeMinutes": 12
+	},
+	{
+		"title": "SHE'S SO HIGH",
+		"artist": "Tal Bachman",
+		"timeHour": 13,
+		"timeMinutes": 15
+	},
+	{
+		"title": "LITTLE RED CORVETTE",
+		"artist": "Prince",
+		"timeHour": 13,
+		"timeMinutes": 18
+	},
+	{
+		"title": "BLACK FINGERNAILS, RED WINE",
+		"artist": "Eskimo Joe",
+		"timeHour": 13,
+		"timeMinutes": 23
+	},
+	{
+		"title": "A KIND OF MAGIC",
+		"artist": "Queen",
+		"timeHour": 13,
+		"timeMinutes": 27
+	},
+	{
+		"title": "On My Way (MIX 106.3 NEW MUSIC INTRO)",
+		"artist": "Sheppard",
+		"timeHour": 13,
+		"timeMinutes": 31
+	},
+	{
+		"title": "THAT DON'T IMPRESS ME MUCH",
+		"artist": "Shania Twain",
+		"timeHour": 13,
+		"timeMinutes": 35
+	},
+	{
+		"title": "COME ON EILEEN",
+		"artist": "Dexys Midnight Runners",
+		"timeHour": 13,
+		"timeMinutes": 45
+	},
+	{
+		"title": "JUST LIKE FIRE",
+		"artist": "Pink",
+		"timeHour": 13,
+		"timeMinutes": 49
+	},
+	{
+		"title": "TOUCH",
+		"artist": "Noiseworks",
+		"timeHour": 13,
+		"timeMinutes": 52
+	},
+	{
+		"title": "YOU MAY BE RIGHT",
+		"artist": "Billy Joel",
+		"timeHour": 14,
+		"timeMinutes": 7
+	},
+	{
+		"title": "FREEDOM 90",
+		"artist": "George Michael",
+		"timeHour": 14,
+		"timeMinutes": 11
+	},
+	{
+		"title": "Rain",
+		"artist": "THE DROUGHTBREAKERS",
+		"timeHour": 14,
+		"timeMinutes": 14
+	},
+	{
+		"title": "LIFE IN A NORTHERN TOWN",
+		"artist": "Dream Academy",
+		"timeHour": 14,
+		"timeMinutes": 18
+	},
+	{
+		"title": "I DON'T FEEL LIKE DANCING",
+		"artist": "Scissor Sisters",
+		"timeHour": 14,
+		"timeMinutes": 22
+	},
+	{
+		"title": "OLD TIME ROCK AND ROLL",
+		"artist": "Bob Seger",
+		"timeHour": 14,
+		"timeMinutes": 26
+	},
+	{
+		"title": "Love Someone",
+		"artist": "Lukas Graham",
+		"timeHour": 14,
+		"timeMinutes": 29
+	},
+	{
+		"title": "MIDNIGHT BLUE",
+		"artist": "Lou Gramm",
+		"timeHour": 14,
+		"timeMinutes": 33
+	},
+	{
+		"title": "SOMETHING I NEED",
+		"artist": "One Republic",
+		"timeHour": 14,
+		"timeMinutes": 41
+	},
+	{
+		"title": "FLASHDANCE",
+		"artist": "Irene Cara",
+		"timeHour": 14,
+		"timeMinutes": 45
+	},
+	{
+		"title": "HAPPIER (MIX 106.3 NEW MUSIC INTRO)",
+		"artist": "MARSHMELLO FT. BASTILLE",
+		"timeHour": 14,
+		"timeMinutes": 49
+	},
+	{
+		"title": "FOLLOW YOU DOWN",
+		"artist": "Gin Blossoms",
+		"timeHour": 14,
+		"timeMinutes": 52
+	},
+	{
+		"title": "TWO STRONG HEARTS",
+		"artist": "John Farnham",
+		"timeHour": 15,
+		"timeMinutes": 6
+	},
+	{
+		"title": "THESE DAYS",
+		"artist": "RUDIMENTAL, JESS GLYNNE",
+		"timeHour": 15,
+		"timeMinutes": 10
+	},
+	{
+		"title": "HOLY GRAIL",
+		"artist": "HUNTERS & COLLECTORS",
+		"timeHour": 15,
+		"timeMinutes": 17
+	},
+	{
+		"title": "GYPSY",
+		"artist": "Fleetwood Mac",
+		"timeHour": 15,
+		"timeMinutes": 29
+	},
+	{
+		"title": "FAR AWAY",
+		"artist": "Nickelback",
+		"timeHour": 15,
+		"timeMinutes": 33
+	},
+	{
+		"title": "I WANT THAT MAN",
+		"artist": "Deborah Harry",
+		"timeHour": 15,
+		"timeMinutes": 47
+	},
+	{
+		"title": "Body Talks (MIX 106.3 NEW MUSIC INTRO)",
+		"artist": "The Struts",
+		"timeHour": 15,
+		"timeMinutes": 51
+	},
+	{
+		"title": "BEAUTIFUL GIRL",
+		"artist": "INXS",
+		"timeHour": 15,
+		"timeMinutes": 54
+	},
+	{
+		"title": "GIRLS JUST WANNA HAVE FUN",
+		"artist": "Cyndi Lauper",
+		"timeHour": 16,
+		"timeMinutes": 7
+	},
+	{
+		"title": "COME AS YOU ARE (UNPLUGGED)",
+		"artist": "NIRVANA",
+		"timeHour": 16,
+		"timeMinutes": 11
+	},
+	{
+		"title": "SHAPE OF YOU",
+		"artist": "Ed Sheeran",
+		"timeHour": 16,
+		"timeMinutes": 19
+	},
+	{
+		"title": "TUCKERS DAUGHTER",
+		"artist": "Ian Moss",
+		"timeHour": 16,
+		"timeMinutes": 33
+	},
+	{
+		"title": "BIG YELLOW TAXI",
+		"artist": "COUNTING CROWES AND VANESSA CA",
+		"timeHour": 16,
+		"timeMinutes": 48
+	},
+	{
+		"title": "LEGS",
+		"artist": "ZZ Top",
+		"timeHour": 16,
+		"timeMinutes": 52
+	}
+]
